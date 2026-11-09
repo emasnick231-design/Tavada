@@ -725,7 +725,7 @@ abstract class AppLocalizations {
   /// No description provided for @authLoginDemoTip.
   ///
   /// In en, this message translates to:
-  /// **'Demo: emasv58@yahoo.com · Password1!'**
+  /// **'Demo: emasnick231@gmail.com · Password1! – or sign up with your own email'**
   String get authLoginDemoTip;
 
   /// No description provided for @authForgotTitle.

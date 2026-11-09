@@ -119,7 +119,7 @@ void main() {
     expect(orders, isEmpty);
 
     // The demo customer still has hers.
-    await backend.login('emasv58@yahoo.com', 'Password1!');
+    await backend.login('emasnick231@gmail.com', 'Password1!');
     final vanessa = (await backend.orders.getOrders(
       OrderListType.completed,
     )).requireValue;
@@ -128,7 +128,7 @@ void main() {
 
   test('change password needs the current one and really changes it', () async {
     final backend = await _Backend.create();
-    await backend.login('emasv58@yahoo.com', 'Password1!');
+    await backend.login('emasnick231@gmail.com', 'Password1!');
     final wrong = await backend.settings.changePassword(
       currentPassword: 'nope',
       newPassword: 'Brandnew9!',
@@ -143,16 +143,16 @@ void main() {
     );
     expect(ok.isRight(), isTrue);
     final old = await backend.auth.loginWithEmail(
-      email: 'emasv58@yahoo.com',
+      email: 'emasnick231@gmail.com',
       password: 'Password1!',
     );
     expect(old.isLeft(), isTrue);
-    await backend.login('emasv58@yahoo.com', 'Brandnew9!');
+    await backend.login('emasnick231@gmail.com', 'Brandnew9!');
   });
 
   test('phone changes only with a code and then works for login', () async {
     final backend = await _Backend.create();
-    await backend.login('emasv58@yahoo.com', 'Password1!');
+    await backend.login('emasnick231@gmail.com', 'Password1!');
     // Tunde's number belongs to another account.
     final taken = await backend.settings.requestPhoneCode('+2348031234567');
     expect(taken.isLeft(), isTrue);
@@ -178,7 +178,7 @@ void main() {
 
   test('orders earn 10 points per £1 and delete removes the account', () async {
     final backend = await _Backend.create();
-    await backend.login('emasv58@yahoo.com', 'Password1!');
+    await backend.login('emasnick231@gmail.com', 'Password1!');
     final before = (await backend.wallet.getOverview()).requireValue;
     final order = (await backend.orders.placeOrder(
       const PlaceOrderRequest(

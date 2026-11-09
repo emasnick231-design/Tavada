@@ -385,7 +385,8 @@ class AppLocalizationsEn extends AppLocalizations {
   String get authSignUp => 'Sign up';
 
   @override
-  String get authLoginDemoTip => 'Demo: emasv58@yahoo.com · Password1!';
+  String get authLoginDemoTip =>
+      'Demo: emasnick231@gmail.com · Password1! – or sign up with your own email';
 
   @override
   String get authForgotTitle => 'Forgot your password?';

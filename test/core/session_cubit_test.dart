@@ -46,7 +46,7 @@ void main() {
           id: 'u1',
           firstName: 'Vanessa',
           lastName: 'Emas',
-          email: 'emasv58@yahoo.com',
+          email: 'emasnick231@gmail.com',
         ),
       ).toJson();
 

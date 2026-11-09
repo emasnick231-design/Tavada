@@ -380,7 +380,8 @@ class AppLocalizationsTr extends AppLocalizations {
   String get authSignUp => 'Kaydol';
 
   @override
-  String get authLoginDemoTip => 'Demo: emasv58@yahoo.com · Password1!';
+  String get authLoginDemoTip =>
+      'Demo: emasnick231@gmail.com · Password1! – ya da kendi e-postanla kaydol';
 
   @override
   String get authForgotTitle => 'Şifreni mi unuttun?';

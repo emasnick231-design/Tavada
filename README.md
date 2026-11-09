@@ -16,12 +16,12 @@ stays easy to test as it grows.
 and install it on your phone. Android will ask you to allow installs from
 unknown sources the first time.
 
-The app ships with a built-in demo backend, so it works without a server or
-signing up. If you want to try the signed-in flows:
+The app ships with a built-in demo backend, so it works without a server. To
+try the signed-in flows, either:
 
-- Email: `emasv58@yahoo.com`
-- Password: `Password1!`
-- Any verification code: `1234`
+- **Sign up with your own email.** Nothing is actually sent: the verification
+  code is always `1234`, and your account only exists on your phone.
+- **Or log in with the demo account:** `emasnick231@gmail.com` / `Password1!`
 
 ## What's inside
 
