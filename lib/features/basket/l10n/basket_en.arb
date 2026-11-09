@@ -1,0 +1,64 @@
+{
+  "basketTitle": "Basket",
+  "basketClearOrders": "Clear orders",
+  "basketTabBaskets": "My Orders",
+  "basketTabOngoing": "Ongoing",
+  "basketTabCompleted": "Completed",
+  "basketItemsTotal": "{items} · {total}",
+  "@basketItemsTotal": {
+    "placeholders": {
+      "items": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "basketDeliverTo": "To: ",
+  "basketVisitStore": "Visit store",
+  "basketCheckout": "Checkout",
+  "basketClearAllTitle": "Clear all baskets?",
+  "basketClearAllMessage": "Every item in your baskets will be removed.",
+  "basketClearAllConfirm": "Clear all",
+  "basketEmptyTitle": "Your basket is empty",
+  "basketEmptyMessage": "Dishes you add from restaurants will show up here.",
+  "basketBrowse": "Find something tasty",
+  "basketNoOngoingTitle": "No orders on the way",
+  "basketNoOngoingMessage": "When you place an order you can track it here.",
+  "basketNoCompletedTitle": "No past orders yet",
+  "basketNoCompletedMessage": "Orders you've received will be listed here.",
+  "basketOrderNumber": "Order {number}",
+  "@basketOrderNumber": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "basketTrackOrder": "Track order",
+  "basketReorder": "Order again",
+  "basketViewDetails": "View details",
+  "basketSignInMessage": "Sign in to see your ongoing and past orders.",
+  "basketViewTimeline": "View timeline",
+  "basketOrderEta": "{status} · arriving {time}",
+  "@basketOrderEta": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "basketRemoved": "{store} basket removed",
+  "@basketRemoved": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      }
+    }
+  },
+  "basketUndo": "Undo"
+}

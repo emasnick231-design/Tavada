@@ -1,0 +1,2020 @@
+[
+ {
+  "id": "mide-lagos",
+  "name": "Mide Lagos",
+  "logo_url": "assets/images/logos/mide_lagos.png",
+  "cover_url": "assets/images/dishes/jollof_haven.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 4.8,
+  "rating_count": 105,
+  "eta_minutes": 20,
+  "distance_miles": 0.5,
+  "delivery_fee": 0,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4656,
+   "longitude": -0.0843
+  },
+  "tags": [
+   "Nigerian",
+   "Chicken",
+   "Halal",
+   "African"
+  ],
+  "category_ids": [
+   "breakfast",
+   "brunch",
+   "lunch",
+   "dinner",
+   "snacks",
+   "drinks",
+   "rice_grains",
+   "seafood",
+   "soup_stews",
+   "pastries",
+   "vegetarian",
+   "grilled_bbq"
+  ],
+  "cuisine_ids": [
+   "nigerian",
+   "ghanaian"
+  ],
+  "dietary_ids": [
+   "halal",
+   "spicy",
+   "gluten_free"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 3482,
+  "is_featured": true,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "original_delivery_fee": 4.3,
+  "popular_items": [
+   "jollof-haven",
+   "beef-kebab-chips",
+   "beef-kebab-rice",
+   "spicy-asun",
+   "fufu-egusi",
+   "puff-puff",
+   "chapman"
+  ]
+ },
+ {
+  "id": "pizza-da-vinci",
+  "name": "Pizza Da Vinci",
+  "logo_url": "assets/images/dishes/spicy_asun.jpg",
+  "cover_url": "assets/images/restaurants/pizza_da_vinci.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 4.8,
+  "rating_count": 101,
+  "eta_minutes": 20,
+  "distance_miles": 0.5,
+  "delivery_fee": 0,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4698,
+   "longitude": -0.0792
+  },
+  "tags": [
+   "Stews",
+   "Grill",
+   "African"
+  ],
+  "category_ids": [
+   "lunch",
+   "dinner",
+   "grilled_bbq",
+   "soup_stews"
+  ],
+  "cuisine_ids": [
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": true,
+  "promo_label": {
+   "en": "Over 40% off",
+   "tr": "%40'a varan indirim"
+  },
+  "menu_items": [
+   "beef-kebab-rice",
+   "grilled-tilapia",
+   "fufu-egusi",
+   "efo-riro",
+   "gizdodo",
+   "beef-kebab-chips",
+   "seafood-okra",
+   "zobo",
+   "chapman"
+  ],
+  "popular_items": [
+   "beef-kebab-rice",
+   "grilled-tilapia",
+   "fufu-egusi"
+  ]
+ },
+ {
+  "id": "zapp",
+  "name": "Zapp",
+  "logo_url": "assets/images/dishes/rice_and_stew.jpg",
+  "cover_url": "assets/images/dishes/rice_and_stew.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 3.2,
+  "rating_count": 101,
+  "eta_minutes": 15,
+  "distance_miles": 0.7,
+  "delivery_fee": 0.99,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.474,
+   "longitude": -0.0741
+  },
+  "tags": [
+   "Rice",
+   "Stews"
+  ],
+  "category_ids": [
+   "lunch",
+   "dinner",
+   "rice_grains"
+  ],
+  "cuisine_ids": [
+   "nigerian",
+   "ghanaian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "menu_items": [
+   "party-jollof",
+   "rice-and-stew",
+   "seafood-fried-rice",
+   "jollof-haven",
+   "efo-riro",
+   "moin-moin",
+   "plantain-chips",
+   "zobo"
+  ],
+  "popular_items": [
+   "party-jollof",
+   "rice-and-stew",
+   "seafood-fried-rice"
+  ]
+ },
+ {
+  "id": "wraps-and-co",
+  "name": "Wraps & Co",
+  "logo_url": "assets/images/dishes/goat_stew_chapati.jpg",
+  "cover_url": "assets/images/dishes/goat_stew_chapati.jpg",
+  "cuisine": {
+   "en": "Kenyan",
+   "tr": "Kenya"
+  },
+  "rating": 2.8,
+  "rating_count": 64,
+  "eta_minutes": 18,
+  "distance_miles": 0.9,
+  "delivery_fee": 1.49,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4782,
+   "longitude": -0.069
+  },
+  "tags": [
+   "Chapati",
+   "Wraps",
+   "Grill"
+  ],
+  "category_ids": [
+   "lunch",
+   "snacks",
+   "dinner"
+  ],
+  "cuisine_ids": [
+   "kenyan",
+   "ethiopian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "menu_items": [
+   "goat-stew-chapati",
+   "beef-kebab-chips",
+   "kilishi",
+   "lentil-salad",
+   "plantain-chips",
+   "zobo"
+  ],
+  "popular_items": [
+   "goat-stew-chapati",
+   "beef-kebab-chips",
+   "kilishi"
+  ]
+ },
+ {
+  "id": "chef-lolas-kitchen",
+  "name": "Chef Lola’s Kitchen",
+  "logo_url": "assets/images/dishes/chef_lola_jollof.jpg",
+  "cover_url": "assets/images/dishes/party_jollof.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 2.8,
+  "rating_count": 101,
+  "eta_minutes": 5,
+  "distance_miles": 0.5,
+  "delivery_fee": 0.49,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4824,
+   "longitude": -0.0639
+  },
+  "tags": [
+   "Jollof",
+   "Chicken",
+   "Halal"
+  ],
+  "category_ids": [
+   "lunch",
+   "dinner",
+   "rice_grains",
+   "breakfast"
+  ],
+  "cuisine_ids": [
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": true,
+  "menu_items": [
+   "chef-lola-jollof",
+   "jollof-haven",
+   "party-jollof",
+   "moin-moin",
+   "puff-puff",
+   "spicy-asun",
+   "chapman"
+  ],
+  "popular_items": [
+   "chef-lola-jollof",
+   "jollof-haven",
+   "party-jollof"
+  ]
+ },
+ {
+  "id": "cookpad",
+  "name": "Cookpad",
+  "logo_url": "assets/images/dishes/beef_kebab_chips.jpg",
+  "cover_url": "assets/images/dishes/beef_kebab_chips.jpg",
+  "cuisine": {
+   "en": "Ghanaian",
+   "tr": "Gana"
+  },
+  "rating": 3.2,
+  "rating_count": 101,
+  "eta_minutes": 8,
+  "distance_miles": 0.5,
+  "delivery_fee": 0,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4656,
+   "longitude": -0.0588
+  },
+  "tags": [
+   "Kebab",
+   "Grill",
+   "Chips"
+  ],
+  "category_ids": [
+   "lunch",
+   "dinner",
+   "grilled_bbq",
+   "snacks"
+  ],
+  "cuisine_ids": [
+   "ghanaian",
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "promo_label": {
+   "en": "Over 40% off",
+   "tr": "%40'a varan indirim"
+  },
+  "menu_items": [
+   "beef-kebab-chips",
+   "beef-kebab-rice",
+   "kilishi",
+   "fried-fish-yaji",
+   "plantain-chips",
+   "puff-puff",
+   "zobo"
+  ],
+  "popular_items": [
+   "beef-kebab-chips",
+   "beef-kebab-rice",
+   "kilishi"
+  ]
+ },
+ {
+  "id": "my-active-kitchen",
+  "name": "My Active Kitchen",
+  "logo_url": "assets/images/dishes/pounded_yam.jpg",
+  "cover_url": "assets/images/dishes/pounded_yam.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 4.8,
+  "rating_count": 101,
+  "eta_minutes": 10,
+  "distance_miles": 0.5,
+  "delivery_fee": 0,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4698,
+   "longitude": -0.0537
+  },
+  "tags": [
+   "Swallow",
+   "Soups",
+   "Healthy"
+  ],
+  "category_ids": [
+   "lunch",
+   "dinner",
+   "soup_stews",
+   "vegetarian"
+  ],
+  "cuisine_ids": [
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "halal",
+   "vegetarian",
+   "organic"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "promo_label": {
+   "en": "Over 40% off",
+   "tr": "%40'a varan indirim"
+  },
+  "menu_items": [
+   "efo-riro",
+   "fufu-egusi",
+   "pounded-yam",
+   "fish-pepper-soup",
+   "lentil-salad",
+   "moin-moin",
+   "zobo"
+  ],
+  "popular_items": [
+   "efo-riro",
+   "fufu-egusi",
+   "pounded-yam"
+  ]
+ },
+ {
+  "id": "suya-palace",
+  "name": "Suya Palace",
+  "logo_url": "assets/images/dishes/beef_suya.jpg",
+  "cover_url": "assets/images/restaurants/suya_palace.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 2.8,
+  "rating_count": 101,
+  "eta_minutes": 15,
+  "distance_miles": 0.5,
+  "delivery_fee": 0,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.474,
+   "longitude": -0.0843
+  },
+  "tags": [
+   "Suya",
+   "Grill",
+   "Spicy"
+  ],
+  "category_ids": [
+   "dinner",
+   "grilled_bbq",
+   "snacks"
+  ],
+  "cuisine_ids": [
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "halal",
+   "spicy"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": true,
+  "menu_items": [
+   "garnished-beef-suya",
+   "kilishi",
+   "spicy-asun",
+   "gizdodo",
+   "beef-kebab-chips",
+   "chapman",
+   "zobo"
+  ],
+  "popular_items": [
+   "garnished-beef-suya",
+   "kilishi",
+   "spicy-asun"
+  ]
+ },
+ {
+  "id": "gourmet-place",
+  "name": "Gourmet Place",
+  "logo_url": "assets/images/dishes/fish_pepper_soup.jpg",
+  "cover_url": "assets/images/dishes/fish_pepper_soup.jpg",
+  "cuisine": {
+   "en": "Senegalese",
+   "tr": "Senegal"
+  },
+  "rating": 4.8,
+  "rating_count": 101,
+  "eta_minutes": 20,
+  "distance_miles": 0.5,
+  "delivery_fee": 3,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4782,
+   "longitude": -0.0792
+  },
+  "tags": [
+   "Seafood",
+   "Soups",
+   "Fine dining"
+  ],
+  "category_ids": [
+   "dinner",
+   "seafood",
+   "soup_stews"
+  ],
+  "cuisine_ids": [
+   "senegalese",
+   "moroccan"
+  ],
+  "dietary_ids": [
+   "gluten_free"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "promo_label": {
+   "en": "Over 40% off",
+   "tr": "%40'a varan indirim"
+  },
+  "menu_items": [
+   "seafood-okra",
+   "grilled-tilapia",
+   "fish-pepper-soup",
+   "seafood-fried-rice",
+   "fried-fish-yaji",
+   "lentil-salad",
+   "zobo"
+  ],
+  "popular_items": [
+   "seafood-okra",
+   "grilled-tilapia",
+   "fish-pepper-soup"
+  ]
+ },
+ {
+  "id": "papa-johns",
+  "name": "Papa John’s",
+  "logo_url": "assets/images/dishes/efo_riro.jpg",
+  "cover_url": "assets/images/dishes/efo_riro.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 2.8,
+  "rating_count": 101,
+  "eta_minutes": 15,
+  "distance_miles": 0.5,
+  "delivery_fee": 0,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4824,
+   "longitude": -0.0741
+  },
+  "tags": [
+   "Efo riro",
+   "Vegetarian"
+  ],
+  "category_ids": [
+   "lunch",
+   "vegetarian",
+   "soup_stews"
+  ],
+  "cuisine_ids": [
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "vegetarian",
+   "vegan"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "promo_label": {
+   "en": "Up to 15% off",
+   "tr": "%15'e varan indirim"
+  },
+  "menu_items": [
+   "efo-riro",
+   "moin-moin",
+   "lentil-salad",
+   "fufu-egusi",
+   "plantain-chips",
+   "pounded-yam",
+   "zobo"
+  ],
+  "popular_items": [
+   "efo-riro",
+   "moin-moin",
+   "lentil-salad"
+  ]
+ },
+ {
+  "id": "sisi-yemi-knives",
+  "name": "Sisi Yemi Knives",
+  "logo_url": "assets/images/dishes/beef_kebab_rice.jpg",
+  "cover_url": "assets/images/dishes/beef_kebab_rice.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 4.8,
+  "rating_count": 101,
+  "eta_minutes": 20,
+  "distance_miles": 0.6,
+  "delivery_fee": 6,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4656,
+   "longitude": -0.069
+  },
+  "tags": [
+   "Breakfast",
+   "Rice",
+   "Grill"
+  ],
+  "category_ids": [
+   "breakfast",
+   "lunch",
+   "dinner",
+   "rice_grains"
+  ],
+  "cuisine_ids": [
+   "nigerian",
+   "south_african"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "menu_items": [
+   "moin-moin",
+   "puff-puff",
+   "rice-and-stew",
+   "party-jollof",
+   "beef-kebab-rice",
+   "fufu-egusi",
+   "chapman"
+  ],
+  "popular_items": [
+   "moin-moin",
+   "puff-puff",
+   "rice-and-stew"
+  ]
+ },
+ {
+  "id": "chishuru",
+  "name": "Chishuru",
+  "logo_url": "assets/images/logos/chishuru.png",
+  "cover_url": "assets/images/dishes/kilishi.jpg",
+  "cuisine": {
+   "en": "West African",
+   "tr": "Batı Afrika"
+  },
+  "rating": 4.8,
+  "rating_count": 220,
+  "eta_minutes": 25,
+  "distance_miles": 0.5,
+  "delivery_fee": 2.5,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4698,
+   "longitude": -0.0639
+  },
+  "tags": [
+   "Fine dining",
+   "West African"
+  ],
+  "category_ids": [
+   "dinner",
+   "grilled_bbq",
+   "seafood"
+  ],
+  "cuisine_ids": [
+   "nigerian",
+   "senegalese"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": true,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "menu_items": [
+   "fried-fish-yaji",
+   "grilled-tilapia",
+   "spicy-asun",
+   "seafood-okra",
+   "party-jollof",
+   "gizdodo",
+   "zobo"
+  ],
+  "popular_items": [
+   "fried-fish-yaji",
+   "grilled-tilapia",
+   "spicy-asun"
+  ]
+ },
+ {
+  "id": "enish",
+  "name": "Enish",
+  "logo_url": "assets/images/logos/enish.png",
+  "cover_url": "assets/images/dishes/fried_fish_yaji.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 4.8,
+  "rating_count": 190,
+  "eta_minutes": 22,
+  "distance_miles": 0.5,
+  "delivery_fee": 1.99,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.474,
+   "longitude": -0.0588
+  },
+  "tags": [
+   "Nigerian",
+   "Grill",
+   "Cocktails"
+  ],
+  "category_ids": [
+   "lunch",
+   "dinner",
+   "seafood",
+   "rice_grains"
+  ],
+  "cuisine_ids": [
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": true,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "menu_items": [
+   "jollof-haven",
+   "seafood-fried-rice",
+   "garnished-beef-suya",
+   "fish-pepper-soup",
+   "gizdodo",
+   "chapman",
+   "zobo"
+  ],
+  "popular_items": [
+   "jollof-haven",
+   "seafood-fried-rice",
+   "garnished-beef-suya"
+  ]
+ },
+ {
+  "id": "akoko",
+  "name": "Akoko",
+  "logo_url": "assets/images/logos/akoko.png",
+  "cover_url": "assets/images/dishes/spicy_asun.jpg",
+  "cuisine": {
+   "en": "West African",
+   "tr": "Batı Afrika"
+  },
+  "rating": 4.8,
+  "rating_count": 156,
+  "eta_minutes": 30,
+  "distance_miles": 0.5,
+  "delivery_fee": 3.5,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4782,
+   "longitude": -0.0537
+  },
+  "tags": [
+   "Tasting menu",
+   "West African"
+  ],
+  "category_ids": [
+   "dinner",
+   "grilled_bbq"
+  ],
+  "cuisine_ids": [
+   "nigerian",
+   "ghanaian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": true,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "menu_items": [
+   "spicy-asun",
+   "kilishi",
+   "fish-pepper-soup",
+   "fufu-egusi",
+   "grilled-tilapia",
+   "zobo"
+  ],
+  "popular_items": [
+   "spicy-asun",
+   "kilishi",
+   "fish-pepper-soup"
+  ]
+ },
+ {
+  "id": "805-restaurants",
+  "name": "805 Restaurants",
+  "logo_url": "assets/images/logos/eight_o_five.png",
+  "cover_url": "assets/images/dishes/gizdodo.jpg",
+  "cuisine": {
+   "en": "Nigerian",
+   "tr": "Nijerya"
+  },
+  "rating": 4.8,
+  "rating_count": 310,
+  "eta_minutes": 18,
+  "distance_miles": 0.5,
+  "delivery_fee": 0,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4824,
+   "longitude": -0.0843
+  },
+  "tags": [
+   "Nigerian",
+   "Grill",
+   "Party jollof"
+  ],
+  "category_ids": [
+   "lunch",
+   "dinner",
+   "grilled_bbq",
+   "rice_grains"
+  ],
+  "cuisine_ids": [
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": true,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "menu_items": [
+   "party-jollof",
+   "garnished-beef-suya",
+   "pounded-yam",
+   "seafood-okra",
+   "beef-kebab-rice",
+   "puff-puff",
+   "chapman"
+  ],
+  "popular_items": [
+   "party-jollof",
+   "garnished-beef-suya",
+   "pounded-yam"
+  ]
+ },
+ {
+  "id": "nandos-peckham",
+  "name": "Nando’s",
+  "logo_url": "assets/images/logos/nandos.png",
+  "cover_url": "assets/images/banners/feast_platter.jpg",
+  "cuisine": {
+   "en": "Peri-peri",
+   "tr": "Peri-peri"
+  },
+  "rating": 4.8,
+  "rating_count": 980,
+  "eta_minutes": 15,
+  "distance_miles": 0.5,
+  "delivery_fee": 0.99,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4656,
+   "longitude": -0.0792
+  },
+  "tags": [
+   "Chicken",
+   "Peri-peri",
+   "Halal"
+  ],
+  "category_ids": [
+   "lunch",
+   "dinner",
+   "grilled_bbq"
+  ],
+  "cuisine_ids": [
+   "south_african"
+  ],
+  "dietary_ids": [
+   "halal",
+   "spicy"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [
+   {
+    "id": "free-delivery",
+    "type": "free_delivery",
+    "title": {
+     "en": "Free delivery",
+     "tr": "Ücretsiz teslimat"
+    },
+    "subtitle": {
+     "en": "Don't worry, it's on us",
+     "tr": "Merak etme, bizden"
+    }
+   },
+   {
+    "id": "first-order",
+    "type": "first_order",
+    "title": {
+     "en": "First order deal",
+     "tr": "İlk sipariş fırsatı"
+    },
+    "subtitle": {
+     "en": "15% off your first order",
+     "tr": "İlk siparişinde %15 indirim"
+    }
+   }
+  ],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": true,
+  "is_alcohol": false,
+  "recently_viewed": false,
+  "menu_items": [
+   "jollof-haven",
+   "beef-kebab-chips",
+   "beef-kebab-rice",
+   "plantain-chips",
+   "lentil-salad",
+   "zobo"
+  ],
+  "popular_items": [
+   "jollof-haven",
+   "beef-kebab-chips",
+   "beef-kebab-rice"
+  ]
+ },
+ {
+  "id": "palm-wine-bar",
+  "name": "Palm Wine Bar",
+  "logo_url": "assets/images/restaurants/cocktail_bar.jpg",
+  "cover_url": "assets/images/restaurants/cocktail_bar.jpg",
+  "cuisine": {
+   "en": "Drinks",
+   "tr": "İçecekler"
+  },
+  "rating": 3.2,
+  "rating_count": 101,
+  "eta_minutes": 8,
+  "distance_miles": 0.5,
+  "delivery_fee": 0.99,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.4698,
+   "longitude": -0.0741
+  },
+  "tags": [
+   "Cocktails",
+   "Palm wine"
+  ],
+  "category_ids": [
+   "drinks"
+  ],
+  "cuisine_ids": [
+   "nigerian"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [],
+  "is_open": true,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": true,
+  "recently_viewed": false,
+  "menu_sections": [
+   "drinks"
+  ]
+ },
+ {
+  "id": "the-drinks-cellar",
+  "name": "The Drinks Cellar",
+  "logo_url": "assets/images/restaurants/whisky_lounge.jpg",
+  "cover_url": "assets/images/restaurants/whisky_lounge.jpg",
+  "cuisine": {
+   "en": "Drinks",
+   "tr": "İçecekler"
+  },
+  "rating": 4.1,
+  "rating_count": 77,
+  "eta_minutes": 10,
+  "distance_miles": 0.8,
+  "delivery_fee": 1.49,
+  "short_address": "28 High Street",
+  "address": "12 Peckham High Street, London SE15 5JT",
+  "location": {
+   "latitude": 51.474,
+   "longitude": -0.069
+  },
+  "tags": [
+   "Spirits",
+   "Wine"
+  ],
+  "category_ids": [
+   "drinks"
+  ],
+  "cuisine_ids": [
+   "south_african"
+  ],
+  "dietary_ids": [
+   "halal"
+  ],
+  "dietary_labels": [
+   "Vegan",
+   "Vegetarian",
+   "Gluten-Free",
+   "Halal",
+   "Low-Carb",
+   "Keto-Friendly",
+   "Nut-Free"
+  ],
+  "offers": [],
+  "is_open": false,
+  "opening_hours": [
+   {
+    "days": "Monday – Friday",
+    "hours": "11:00 AM – 22:00 PM"
+   },
+   {
+    "days": "Saturday",
+    "hours": "12:00 AM – 23:00 PM"
+   },
+   {
+    "days": "Sunday",
+    "hours": "12:00 AM – 21:00 PM"
+   }
+  ],
+  "closes_at": "22:00 PM",
+  "allergy_info": {
+   "en": "Food may contain or come into contact with allergens including peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.\n\nFor specific allergen information, please contact support before ordering.",
+   "tr": "Yiyecekler fıstık, sert kabuklu yemişler, süt, yumurta, buğday, soya, balık ve kabuklu deniz ürünleri gibi alerjenler içerebilir veya bunlarla temas edebilir.\n\nBelirli alerjen bilgileri için sipariş vermeden önce destek ekibiyle iletişime geçin."
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Most reviewers mention good packaging and food arriving hot. A few note mild delays during busy hours and spiciness levels that may be higher than expected.",
+   "tr": "Müşteriler özellikle egusi, jollof pilavı ve dövülmüş yam başta olmak üzere otantik lezzeti, cömert porsiyonları ve zengin aromaları övüyor. Yorumların çoğu iyi paketlemeden ve yemeğin sıcak geldiğinden bahsediyor. Birkaçı yoğun saatlerde hafif gecikmelere ve beklenenden yüksek acılık seviyelerine dikkat çekiyor."
+  },
+  "orders_last_year": 1200,
+  "is_featured": false,
+  "is_alcohol": true,
+  "recently_viewed": false,
+  "opens_at": "11:00 AM",
+  "menu_sections": [
+   "drinks"
+  ]
+ }
+]

@@ -1,0 +1,197 @@
+{
+  "profileGuest": "Hi there!",
+  "profileGuestMessage": "Sign in to see your wallet, rewards and orders.",
+  "profileSignIn": "Sign in or create account",
+  "profileWalletBalance": "Wallet Balance",
+  "profileAddMoney": "Add funds",
+  "profileSeeActivity": "See activity",
+  "profileUpdatePhone": "Update phone number",
+  "profileChangePassword": "Change password",
+  "profileNotifications": "Notification preferences",
+  "profileRewards": "Rewards",
+  "profileAccessibility": "Accessibility",
+  "profileHelp": "Get help",
+  "profileLanguage": "Language",
+  "profileHaptics": "Haptic feedback",
+  "profileLogout": "Log out",
+  "profileLogoutTitle": "Log out?",
+  "profileLogoutMessage": "You can sign back in any time. Your baskets stay on this device.",
+  "profilePointsToNext": "{points} pts",
+  "@profilePointsToNext": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "profilePointsToNextSuffix": " more to next reward",
+  "profileEarnReward": "Earn {value} when you reach {points} pts",
+  "@profileEarnReward": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "profileRedeemPoints": "Redeem points",
+  "profileReferFriend": "Refer a friend,\nget {points}pts",
+  "@profileReferFriend": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "profileRedeemed": "{value} added to your wallet!",
+  "@profileRedeemed": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "profileVersion": "Version {version}",
+  "@profileVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "updatePhoneTitle": "Update your phone number?",
+  "updatePhoneSubtitle": "You'll use this number to get notifications, sign in, and recover account",
+  "updatePhoneSaved": "Phone number updated",
+  "changePasswordTitle": "Change your password",
+  "changePasswordSubtitle": "Enter your current password, then choose a new one",
+  "changePasswordSaved": "Password changed",
+  "notificationsTitle": "Notification preferences",
+  "notificationsSubtitle": "Choose how you would like to get notified for special offers, promos, and more",
+  "notificationsPush": "Push notifications",
+  "notificationsWhatsapp": "WhatsApp",
+  "notificationsEmail": "Email",
+  "notificationsOn": "On",
+  "notificationsOff": "Off",
+  "notificationsCategoriesTitle": "Categories",
+  "notificationsOrderStatus": "Order Status Update",
+  "notificationsOrderStatusBody": "Allow to send notifications and show live order tracking updates",
+  "notificationsPromotions": "Promotional Notifications",
+  "notificationsPromotionsBody": "Notify me about exclusive offers, money saving offers, and promotions",
+  "notificationsRecommendations": "Recommendations",
+  "notificationsRecommendationsBody": "Let me know about recommendations on great food, groceries and more",
+  "notificationsReminders": "Reminders",
+  "notificationsRemindersBody": "Notify me for unfinished orders",
+  "notificationsSaved": "Preferences saved",
+  "accessibilityTitle": "Accessibility",
+  "accessibilitySubtitle": "Help riders and stores serve you better",
+  "accessibilityHearing": "Hearing",
+  "accessibilityHearingBody": "Choose to disclose to riders whether you are deaf or have difficulty hearing",
+  "accessibilityHearingNone": "I am not deaf or hard of hearing",
+  "accessibilityHearingDeaf": "I am deaf",
+  "accessibilityHearingHard": "I am hard of hearing",
+  "accessibilitySaved": "Accessibility settings saved",
+  "addMoneyTitle": "Add money",
+  "addMoneyBalance": "Balance: {balance}",
+  "@addMoneyBalance": {
+    "placeholders": {
+      "balance": {
+        "type": "String"
+      }
+    }
+  },
+  "addMoneySecurely": "Add money securely",
+  "addMoneySuccess": "{amount} added to your wallet",
+  "@addMoneySuccess": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "walletActivityTitle": "Wallet activity",
+  "walletEmptyTitle": "No activity yet",
+  "walletEmptyMessage": "Top-ups, payments and refunds will show up here.",
+  "walletTopUp": "Wallet top-up",
+  "walletPayment": "Order payment",
+  "walletRefund": "Refund",
+  "walletReward": "Reward",
+  "rewardsTitle": "Rewards",
+  "rewardsPoints": "{points} pts",
+  "@rewardsPoints": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsYourPoints": "Your points",
+  "rewardsHowItWorks": "How it works",
+  "rewardsHow1": "Earn 10 points for every £1 you spend.",
+  "rewardsHow2": "Redeem {points} points for {value} wallet credit.",
+  "@rewardsHow2": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      },
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsHow3": "Invite friends with your code — you both get {points} points.",
+  "@rewardsHow3": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsReferralCode": "Your referral code",
+  "rewardsShare": "Share code",
+  "rewardsShareText": "Join me on Tavada Eats with my code {code} and we both get bonus points!",
+  "@rewardsShareText": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsCopied": "Code copied",
+  "languageTitle": "Language",
+  "languageSubtitle": "Choose the language for the app",
+  "changePasswordCurrentHint": "Current password",
+  "changePasswordNewHint": "New password",
+  "updatePhoneCodeTitle": "Enter the code we sent you",
+  "updatePhoneCodeSubtitle": "We sent a 4-digit code to {phone} to make sure it’s yours",
+  "@updatePhoneCodeSubtitle": {
+    "placeholders": {
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "updatePhoneVerify": "Verify and save",
+  "profileEditName": "Edit your name",
+  "profileEditNameSubtitle": "This is how stores and riders will greet you",
+  "profileNameSaved": "Name updated",
+  "profileEditProfile": "Edit name",
+  "profileDeleteAccount": "Delete account",
+  "profileDeleteTitle": "Delete your account?",
+  "profileDeleteMessage": "This permanently deletes your account, order history, wallet balance and reward points. It can’t be undone.",
+  "profileDeleteConfirm": "Delete my account",
+  "profileDeleted": "Your account has been deleted",
+  "addMoneyMinimum": "Minimum top-up is {amount} · charged to {card}",
+  "@addMoneyMinimum": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "card": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsPointsSuffix": " pts"
+}

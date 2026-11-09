@@ -1,0 +1,78 @@
+{
+  "ordersHangTight": "Hang tight, we are on it",
+  "ordersEstimatedArrival": "Estimated arrival",
+  "ordersStatusPlaced": "Order placed",
+  "ordersStatusPreparing": "Preparing order",
+  "ordersStatusRiderPicked": "Rider picks order",
+  "ordersStatusDispatched": "Order dispatched",
+  "ordersStatusDelivered": "Delivered",
+  "ordersStatusCancelled": "Cancelled",
+  "ordersCallRider": "Call rider",
+  "ordersDeliveryInfo": "Delivery Info",
+  "ordersAddress": "Address",
+  "ordersPickupFrom": "Pickup from",
+  "ordersInstruction": "Delivery instruction",
+  "ordersNoInstruction": "No instructions for the rider",
+  "ordersChange": "Change",
+  "ordersEdit": "Edit",
+  "ordersChangeAfterPlacing": "This order is already on its way. Chat with us to change the delivery details.",
+  "ordersChat": "Chat",
+  "ordersSummary": "Order summary",
+  "ordersPaymentDetails": "Payment details",
+  "ordersPaymentSummary": "Payment summary",
+  "ordersArrivedIn": "{minutes, plural, =1{Yay! Your food arrived in just 1 min} other{Yay! Your food arrived in just {minutes} mins}}",
+  "@ordersArrivedIn": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersRateBy": "Rate your delivery by ",
+  "ordersThanksRating": "Thanks for rating your delivery!",
+  "ordersRepeat": "Repeat order",
+  "ordersRepeated": "Added to your basket",
+  "ordersTimeOfDelivery": "Time of delivery",
+  "ordersEstimatedDelivery": "Estimated delivery",
+  "ordersMilestoneConfirmed": "{store} has confirmed your order",
+  "@ordersMilestoneConfirmed": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersMilestoneRiderAssigned": "A rider has been assigned to your order",
+  "ordersMilestoneReady": "Your order is ready to be picked by the rider",
+  "ordersMilestonePickedUp": "The rider has picked up your order",
+  "ordersMilestoneArrived": "The rider arrived at your location",
+  "ordersViewTimeline": "View timeline",
+  "ordersGiftFor": "Gift for {name}",
+  "@ordersGiftFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRepeatTitle": "You already have a {store} basket",
+  "@ordersRepeatTitle": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRepeatMessage": "Replace it with this order, or add these items to it?",
+  "ordersRepeatReplace": "Replace basket",
+  "ordersRepeatAdd": "Add to basket",
+  "ordersRepeatUnavailable": "{count, plural, =1{1 item is no longer available and was left out} other{{count} items are no longer available and were left out}}",
+  "@ordersRepeatUnavailable": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersNeedHelp": "Need help with this order?"
+}

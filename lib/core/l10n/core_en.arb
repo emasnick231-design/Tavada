@@ -1,0 +1,133 @@
+{
+  "appName": "Tavada Eats",
+  "appTagline": "Always African, anywhere",
+  "commonContinue": "Continue",
+  "commonCancel": "Cancel",
+  "commonSave": "Save",
+  "commonSaveChanges": "Save changes",
+  "commonDone": "Done",
+  "commonApply": "Apply",
+  "commonReset": "Reset",
+  "commonRetry": "Try again",
+  "commonClose": "Close",
+  "commonBack": "Back",
+  "commonNext": "Next",
+  "commonSeeAll": "See all",
+  "commonSearch": "Search",
+  "commonClearAll": "Clear all",
+  "commonEdit": "Edit",
+  "commonChange": "Change",
+  "commonDelete": "Delete",
+  "commonRemove": "Remove",
+  "commonConfirm": "Confirm",
+  "commonYes": "Yes",
+  "commonNo": "No",
+  "commonOk": "OK",
+  "commonRequired": "Required",
+  "commonOptional": "Optional",
+  "commonFree": "Free",
+  "commonOr": "or",
+  "commonToday": "Today",
+  "commonYesterday": "Yesterday",
+  "commonJustNow": "Just now",
+  "commonReadMore": "Read more",
+  "commonShowLess": "Show less",
+  "commonMoreInfo": "more info",
+  "commonComingSoon": "Coming soon",
+  "commonComingSoonMessage": "{feature} is coming soon. Hang tight!",
+  "@commonComingSoonMessage": {
+    "placeholders": {
+      "feature": {
+        "type": "String"
+      }
+    }
+  },
+  "commonMinutes": "{count} min",
+  "@commonMinutes": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonMinutesLong": "{count, plural, =1{1 min} other{{count} mins}}",
+  "@commonMinutesLong": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonMiles": "{distance} mi",
+  "@commonMiles": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "commonResults": "{count, plural, =0{No results} =1{1 result} other{{count} results}}",
+  "@commonResults": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonItems": "{count, plural, =1{1 item} other{{count} items}}",
+  "@commonItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonRelativeMonths": "{count, plural, =1{1 month ago} other{{count} months ago}}",
+  "@commonRelativeMonths": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonRelativeDays": "{count, plural, =1{1 day ago} other{{count} days ago}}",
+  "@commonRelativeDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "navHome": "Home",
+  "navStores": "Stores",
+  "navBasket": "Basket",
+  "navProfile": "Profile",
+  "legalAgreePrefix": "By continuing you agree to our",
+  "legalPrivacyPolicy": "Privacy Policy",
+  "legalAnd": "and",
+  "legalTermsOfUse": "Terms of Use",
+  "errorTitle": "Oops!",
+  "errorNetwork": "You're offline. Check your connection and try again.",
+  "errorTimeout": "This is taking longer than usual. Please try again.",
+  "errorServer": "Something went wrong on our side. Please try again.",
+  "errorUnauthorized": "Your session has expired. Please sign in again.",
+  "errorNotFound": "We couldn't find what you were looking for.",
+  "errorUnexpected": "Something unexpected happened. Please try again.",
+  "offlineBanner": "You're offline. We'll reconnect automatically.",
+  "backOnlineBanner": "Back online",
+  "emptyGenericTitle": "Nothing here yet",
+  "emptyGenericMessage": "Check back soon — new things are cooking.",
+  "signInRequiredTitle": "Sign in to continue",
+  "signInRequiredMessage": "Create an account or log in to place orders, track deliveries and earn rewards.",
+  "signInRequiredAction": "Sign in",
+  "languageEnglish": "English",
+  "languageTurkish": "Türkçe",
+  "languageSystem": "System default",
+  "ratingExcellent": "Excellent",
+  "ratingVeryGood": "Very Good",
+  "ratingGood": "Good",
+  "ratingFair": "Fair",
+  "mapAttribution": "© OpenStreetMap © CARTO",
+  "errorGoHome": "Go to home",
+  "errorPageNotFound": "This page doesn’t exist (anymore). Let’s get you back to the food."
+}

@@ -1,0 +1,27 @@
+{
+ "wallet": {
+  "balance": 1250.0,
+  "currency": "GBP"
+ },
+ "rewards": {
+  "points": 110,
+  "next_reward_points": 200,
+  "reward_value": 5.0,
+  "referral_points": 80,
+  "referral_code": "TAVADA-VANESSA"
+ },
+ "notification_channels": {
+  "push": true,
+  "whatsapp": false,
+  "email": true
+ },
+ "notification_categories": {
+  "order_status": true,
+  "promotions": true,
+  "recommendations": true,
+  "reminders": true
+ },
+ "accessibility": {
+  "hearing": "none"
+ }
+}

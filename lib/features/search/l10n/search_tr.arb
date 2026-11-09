@@ -1,0 +1,12 @@
+{
+  "searchHint": "Afrika yemekleri ve restoranları ara",
+  "searchRecent": "Son aramalar",
+  "searchCategories": "Kategoriler",
+  "searchTrendyCuisines": "Yakınındaki trend mutfaklar",
+  "searchFor": "“{query}” için ara",
+  "searchAllAfrica": "Tüm Afrika",
+  "searchDeliveryFee": "{fee} teslimat ücreti",
+  "searchFreeDelivery": "Ücretsiz teslimat",
+  "searchNoResultsTitle": "“{query}” için sonuç yok",
+  "searchNoResultsMessage": "Yazımı kontrol et ya da farklı bir yemek, içecek veya restoran dene."
+}

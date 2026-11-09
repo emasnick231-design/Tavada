@@ -1,0 +1,5 @@
+[
+  {"id": "first-order", "title": {"en": "Get 10% off your first order!", "tr": "İlk siparişinde %10 indirim!"}, "cta_label": {"en": "First timers", "tr": "Yeni gelenler"}, "image_url": "assets/images/banners/feast_platter.jpg", "style": "teal", "deep_link": "/restaurants?section=special_discounts"},
+  {"id": "free-delivery", "title": {"en": "Over £20 gets free delivery!", "tr": "£20 üzeri teslimat ücretsiz!"}, "cta_label": {"en": "Don't miss out!", "tr": "Kaçırma!"}, "image_url": "assets/images/dishes/rice_and_stew.jpg", "style": "pink", "deep_link": "/restaurants?section=under_1_delivery"},
+  {"id": "rewards", "title": {"en": "Earn £5 for every 200 points", "tr": "Her 200 puanda £5 kazan"}, "cta_label": {"en": "Rewards", "tr": "Ödüller"}, "image_url": "assets/images/dishes/party_jollof.jpg", "style": "lavender", "deep_link": "/account/rewards"}
+]

@@ -1,0 +1,45 @@
+{
+  // Run & Debug configurations for the app flavors.
+  // "no debug" runs without attaching the debugger (faster, hot reload still works).
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Tavada Dev (no debug)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main_dev.dart",
+      "args": ["--flavor", "dev"],
+      "noDebug": true
+    },
+    {
+      "name": "Tavada Prod (no debug)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main_prod.dart",
+      "args": ["--flavor", "prod"],
+      "noDebug": true
+    },
+    {
+      "name": "Tavada Dev",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main_dev.dart",
+      "args": ["--flavor", "dev"]
+    },
+    {
+      "name": "Tavada Prod",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main_prod.dart",
+      "args": ["--flavor", "prod"]
+    }
+  ],
+  "compounds": [
+    {
+      // Dev and prod have different bundle ids, so both install side by side.
+      "name": "Tavada Dev + Prod",
+      "configurations": ["Tavada Dev", "Tavada Prod"],
+      "stopAll": true
+    }
+  ]
+}

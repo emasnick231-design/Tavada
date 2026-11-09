@@ -1,0 +1,9 @@
+[
+  {"id": "places_near_you", "title": {"en": "Places near you", "tr": "Yakınındaki mekanlar"}, "layout": "carousel"},
+  {"id": "featured_stores", "title": {"en": "Featured stores", "tr": "Öne çıkan mağazalar"}, "subtitle": {"en": "Our partners that paid for placements", "tr": "Öne çıkmak için ödeme yapan iş ortaklarımız"}, "layout": "store_grid"},
+  {"id": "recently_viewed", "title": {"en": "Recently viewed", "tr": "Son görüntülenenler"}, "layout": "carousel"},
+  {"id": "special_discounts", "title": {"en": "Special discounts", "tr": "Özel indirimler"}, "layout": "carousel"},
+  {"id": "under_1_delivery", "title": {"en": "Under £1 delivery fee", "tr": "£1 altı teslimat ücreti"}, "layout": "carousel"},
+  {"id": "under_10_minutes", "title": {"en": "Less than 10 min", "tr": "10 dakikadan kısa"}, "title_emoji": "⚡️", "layout": "carousel"},
+  {"id": "alcohol_near_you", "title": {"en": "Alcohol stores near you", "tr": "Yakınındaki alkol mağazaları"}, "layout": "carousel"}
+]

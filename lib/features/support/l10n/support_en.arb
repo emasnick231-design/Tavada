@@ -1,0 +1,31 @@
+{
+  "helpTitle": "How can we help?",
+  "helpSubtitle": "Our team is ready to help you 24/7",
+  "helpChatWithPerson": "Chat with a person",
+  "helpWasHelpful": "Was this helpful?",
+  "helpYes": "Yes",
+  "helpNo": "No",
+  "helpThanks": "Thanks for letting us know!",
+  "chatTitle": "Chat with support",
+  "chatWithAgent": "Chatting with {name}",
+  "@chatWithAgent": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "chatEmpty": "Share your concerns with us, we're here to help and make things right!",
+  "chatHint": "Share your concerns",
+  "chatSendFailed": "Message not sent. Tap to retry.",
+  "chatAttachPhoto": "Attach a photo",
+  "chatTyping": "{name} is typing",
+  "@chatTyping": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "chatPhotoAccessDenied": "We can’t open your photos. Allow photo access in Settings to send a picture."
+}

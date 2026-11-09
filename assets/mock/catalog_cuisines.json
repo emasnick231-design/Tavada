@@ -1,0 +1,12 @@
+[
+  {"id": "nigerian", "name": {"en": "Nigerian", "tr": "Nijerya"}, "image_url": "assets/images/cuisines/nigerian.jpg"},
+  {"id": "south_african", "name": {"en": "South African", "tr": "Güney Afrika"}, "image_url": "assets/images/cuisines/south_african.jpg"},
+  {"id": "moroccan", "name": {"en": "Moroccan", "tr": "Fas"}, "image_url": "assets/images/cuisines/moroccan.jpg"},
+  {"id": "ghanaian", "name": {"en": "Ghanaian", "tr": "Gana"}, "image_url": "assets/images/cuisines/ghanaian.jpg"},
+  {"id": "algerian", "name": {"en": "Algerian", "tr": "Cezayir"}, "image_url": "assets/images/cuisines/algerian.jpg"},
+  {"id": "ethiopian", "name": {"en": "Ethiopian", "tr": "Etiyopya"}, "image_url": "assets/images/cuisines/ethiopian.jpg"},
+  {"id": "tunisian", "name": {"en": "Tunisian", "tr": "Tunus"}, "image_url": "assets/images/cuisines/tunisian.jpg"},
+  {"id": "kenyan", "name": {"en": "Kenyan", "tr": "Kenya"}, "image_url": "assets/images/cuisines/kenyan.jpg"},
+  {"id": "senegalese", "name": {"en": "Senegalese", "tr": "Senegal"}, "image_url": "assets/images/cuisines/senegalese.jpg"},
+  {"id": "egyptian", "name": {"en": "Egyptian", "tr": "Mısır"}, "image_url": "assets/images/cuisines/egyptian.jpg"}
+]

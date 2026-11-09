@@ -1,0 +1,8 @@
+[
+  {"id": "halal", "name": {"en": "Halal", "tr": "Helal"}},
+  {"id": "vegetarian", "name": {"en": "Vegetarian", "tr": "Vejetaryen"}},
+  {"id": "vegan", "name": {"en": "Vegan", "tr": "Vegan"}},
+  {"id": "gluten_free", "name": {"en": "Gluten-free", "tr": "Glutensiz"}},
+  {"id": "organic", "name": {"en": "Organic", "tr": "Organik"}},
+  {"id": "spicy", "name": {"en": "Spicy", "tr": "Acılı"}}
+]

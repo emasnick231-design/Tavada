@@ -1,0 +1,85 @@
+{
+ "summary": {
+  "average": 4.8,
+  "total": 105,
+  "distribution": {
+   "5": 71,
+   "4": 22,
+   "3": 6,
+   "2": 4,
+   "1": 2
+  },
+  "ai_summary": {
+   "en": "Customers praise the authentic taste, generous portions, and rich flavours.",
+   "tr": "Müşteriler otantik lezzeti ve cömert porsiyonları övüyor."
+  }
+ },
+ "reviews": [
+  {
+   "id": "r1",
+   "author_name": "Adaeze O.",
+   "rating": 5,
+   "comment": "Rich flavour, proper palm oil taste, and the meat portions were generous. Arrived hot and well packaged — easily the best jollof I've had in London.",
+   "created_at": "2026-10-26T12:10:00Z",
+   "avatar_seed": 1
+  },
+  {
+   "id": "r2",
+   "author_name": "Tunde B.",
+   "rating": 5,
+   "comment": "The jollof rice was amazing and smoky. Pepper soup was a little hotter than expected, but still enjoyable. Will definitely order again.",
+   "created_at": "2026-09-24T19:40:00Z",
+   "avatar_seed": 2,
+   "restaurant_reply": "Customers praise the authentic taste, generous portions, and rich flavours, especially the egusi, jollof rice, and pounded yam. Thank you for the kind words, Tunde — we'll keep the pepper coming!"
+  },
+  {
+   "id": "r3",
+   "author_name": "Kemi A.",
+   "rating": 5,
+   "comment": "Everything tasted authentic.",
+   "created_at": "2025-10-27T13:00:00Z",
+   "avatar_seed": 3
+  },
+  {
+   "id": "r4",
+   "author_name": "James W.",
+   "rating": 4,
+   "comment": "Great suya and the zobo was refreshing. Delivery took a little longer than the estimate on a Friday night.",
+   "created_at": "2026-08-12T20:15:00Z",
+   "avatar_seed": 4
+  },
+  {
+   "id": "r5",
+   "author_name": "Fatima S.",
+   "rating": 5,
+   "comment": "Halal, delicious and the puff puff were still warm. Lovely touch with the handwritten note!",
+   "created_at": "2026-07-03T11:05:00Z",
+   "avatar_seed": 5
+  },
+  {
+   "id": "r6",
+   "author_name": "Daniel K.",
+   "rating": 3,
+   "comment": "Food was good but my plantain was missing. Support sorted it quickly though.",
+   "created_at": "2026-06-18T18:30:00Z",
+   "avatar_seed": 6,
+   "restaurant_reply": "Sorry about the plantain, Daniel! We've added a little extra to your next order."
+  },
+  {
+   "id": "r7",
+   "author_name": "Grace N.",
+   "rating": 5,
+   "comment": "The egusi soup reminded me of home. Pounded yam was perfectly smooth.",
+   "created_at": "2026-05-09T13:45:00Z",
+   "avatar_seed": 7
+  },
+  {
+   "id": "r8",
+   "author_name": "Oliver P.",
+   "rating": 4,
+   "comment": "First time trying Nigerian food — the asun was spicy but brilliant.",
+   "created_at": "2026-04-21T19:00:00Z",
+   "avatar_seed": 8
+  }
+ ]
+}

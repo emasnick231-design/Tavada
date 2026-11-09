@@ -1,0 +1,147 @@
+{
+  "checkoutTitle": "Checkout",
+  "checkoutHideSelections": "Hide selections",
+  "checkoutShowSelections": "Show selections",
+  "checkoutPack": "Pack {number}",
+  "@checkoutPack": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "checkoutYourSelections": "Your Selections",
+  "checkoutEditSelection": "Edit selection",
+  "checkoutAddAnotherItem": "Add another item",
+  "checkoutDeliveryInfo": "Delivery Info",
+  "checkoutDelivery": "Delivery",
+  "checkoutPickup": "Pickup",
+  "checkoutMiles": "{distance} miles",
+  "@checkoutMiles": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutChooseAddress": "Choose a delivery address",
+  "checkoutDeliveryInstructions": "Delivery instructions",
+  "checkoutDeliveryInstructionsHint": "Add specific information to the rider",
+  "checkoutAllergyInfo": "Allergy & Dietary Info",
+  "checkoutAllergyInformation": "Allergy Information",
+  "checkoutDietaryLabels": "Dietary Labels",
+  "checkoutDeliversIn": "{minutes, plural, =1{Delivers in 1 min} other{Delivers in {minutes} mins}}",
+  "@checkoutDeliversIn": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "checkoutStoreLocation": "Store location",
+  "checkoutDistance": "Distance",
+  "checkoutPickupTime": "Pickup time",
+  "checkoutPickupWindow": "{from} - {to} mins",
+  "@checkoutPickupWindow": {
+    "placeholders": {
+      "from": {
+        "type": "int"
+      },
+      "to": {
+        "type": "int"
+      }
+    }
+  },
+  "checkoutPaymentOption": "Choose your payment option",
+  "checkoutPayWithWallet": "Pay with wallet",
+  "checkoutWalletBalance": "Bal: {balance}",
+  "@checkoutWalletBalance": {
+    "placeholders": {
+      "balance": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutPayWithCard": "Use credit or debit card",
+  "checkoutWalletTooLow": "Balance too low for this order",
+  "checkoutCutlery": "Request cutlery or straws",
+  "checkoutSendAsGift": "Send as gift",
+  "checkoutGiftFor": "Gift for {name}",
+  "@checkoutGiftFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutGiftSaved": "Gift details saved",
+  "checkoutPaymentSummary": "Payment summary",
+  "checkoutSubtotal": "Subtotal",
+  "checkoutDeliveryFee": "Delivery fee",
+  "checkoutServiceFee": "Service fee",
+  "checkoutDiscount": "Discount applied",
+  "checkoutTotal": "Total",
+  "checkoutMakePayment": "Make payment",
+  "checkoutClearTitle": "Clear this basket?",
+  "checkoutClearMessage": "All items from {store} will be removed.",
+  "@checkoutClearMessage": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutClearConfirm": "Clear basket",
+  "checkoutRemovePackTitle": "Remove this pack?",
+  "checkoutRemovePackMessage": "{name} will be removed from your basket.",
+  "@checkoutRemovePackMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutInstructionsHint": "Leave a message...",
+  "checkoutAddNote": "Add note",
+  "checkoutGiftTitle": "Customize your gift",
+  "checkoutGiftSender": "Who is sending this gift?",
+  "checkoutGiftRecipient": "Who is this gift for?",
+  "checkoutGiftRecipientHint": "Enter their name or nickname",
+  "checkoutGiftPhone": "Recipient’s phone number",
+  "checkoutGiftFindContacts": "Find from contacts",
+  "checkoutGiftNote": "Add a note",
+  "checkoutGiftSave": "Save gift",
+  "checkoutGiftRemove": "Remove gift",
+  "checkoutContactsTitle": "Choose a contact",
+  "checkoutEmptyTitle": "Your basket is empty",
+  "checkoutEmptyMessage": "Add a few dishes to check out.",
+  "checkoutBackToStore": "Back to store",
+  "checkoutUseCard": "Use card",
+  "checkoutClosedBanner": "{store} is closed right now. It opens at {time}.",
+  "@checkoutClosedBanner": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutCountryPicker": "Select country",
+  "checkoutCountrySearch": "Search country",
+  "checkoutQuoteFailed": "We couldn’t update your total. Try again before paying.",
+  "checkoutTopUp": "Top up",
+  "checkoutWalletBlocked": "Top up your wallet or pay by card to continue.",
+  "checkoutClosedShort": "{store} is closed · opens at {time}",
+  "@checkoutClosedShort": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  }
+}

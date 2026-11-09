@@ -1,0 +1,9 @@
+# Generated from feature-owned ARB fragments by `tool/codegen.sh`
+# (see tool/l10n_merge.dart). Never edit lib/core/l10n/arb/* by hand.
+arb-dir: lib/core/l10n/arb
+template-arb-file: app_en.arb
+output-dir: lib/core/l10n/gen
+output-localization-file: app_localizations.dart
+output-class: AppLocalizations
+nullable-getter: false
+untranslated-messages-file: build/l10n_untranslated.txt

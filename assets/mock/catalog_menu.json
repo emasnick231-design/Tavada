@@ -1,0 +1,2206 @@
+[
+ {
+  "id": "starters",
+  "name": {
+   "en": "Starters & Small Chops",
+   "tr": "Başlangıçlar & Atıştırmalıklar"
+  },
+  "items": [
+   {
+    "id": "garnished-beef-suya",
+    "name": "Garnished Beef Suya",
+    "description": "Thinly sliced beef charcoal-grilled with authentic Yaji spice. Served with red onions and tomatoes.",
+    "price": 12.5,
+    "image_url": "assets/images/dishes/beef_suya.jpg",
+    "is_popular": false,
+    "tags": [
+     "spicy",
+     "grill",
+     "protein"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "spicy-asun",
+    "name": "Spicy Asun (Goat Meat)",
+    "description": "Tender, smoky goat meat sautéed in a fiery habanero and onion sauce.",
+    "price": 13.5,
+    "image_url": "assets/images/dishes/spicy_asun.jpg",
+    "is_popular": true,
+    "tags": [
+     "spicy",
+     "protein"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "moin-moin",
+    "name": "Bowl of Moin Moin",
+    "description": "Steamed bean pudding made with peppers and onions, wrapped in traditional leaves.",
+    "price": 4.5,
+    "image_url": "assets/images/dishes/moin_moin.jpg",
+    "is_popular": false,
+    "tags": [
+     "vegetarian",
+     "breakfast"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "gizdodo",
+    "name": "Gizzard & Dodo (Gizdodo)",
+    "description": "Chunky pieces of fried gizzard and sweet plantain tossed in a spicy pepper sauce.",
+    "price": 12.99,
+    "image_url": "assets/images/dishes/gizdodo.jpg",
+    "is_popular": false,
+    "tags": [
+     "spicy"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "lentil-salad",
+    "name": "Spiced Lentil Salad",
+    "description": "Warm lentils with peppers, red onion, herbs and a lemon-pepper dressing.",
+    "price": 7.5,
+    "image_url": "assets/images/dishes/lentil_salad.jpg",
+    "is_popular": false,
+    "tags": [
+     "vegetarian",
+     "vegan",
+     "healthy"
+    ],
+    "option_groups": []
+   }
+  ]
+ },
+ {
+  "id": "rice",
+  "name": {
+   "en": "Rice Meals",
+   "tr": "Pilav Yemekleri"
+  },
+  "items": [
+   {
+    "id": "jollof-haven",
+    "name": "Jollof haven",
+    "description": "Smoky party jollof served with grilled chicken, fried plantain and a side of spicy stew.",
+    "price": 5.41,
+    "image_url": "assets/images/dishes/jollof_haven.jpg",
+    "is_popular": true,
+    "tags": [
+     "rice",
+     "chicken",
+     "protein"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ],
+    "original_price": 6.01
+   },
+   {
+    "id": "party-jollof",
+    "name": "Signature Party Jollof Rice",
+    "description": "Smoky, aromatic long-grain rice. Served with fried plantain and your choice of protein.",
+    "price": 14.5,
+    "image_url": "assets/images/dishes/party_jollof.jpg",
+    "is_popular": false,
+    "tags": [
+     "rice"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "seafood-fried-rice",
+    "name": "Native Seafood Fried Rice",
+    "description": "Fragrant rice wok-tossed with prawns, calamari and vegetables in palm oil.",
+    "price": 17.5,
+    "image_url": "assets/images/dishes/rice_and_stew.jpg",
+    "is_popular": false,
+    "tags": [
+     "rice",
+     "seafood"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "chef-lola-jollof",
+    "name": "Smoky Firewood Jollof",
+    "description": "Firewood-smoked jollof rice with peppered chicken and dodo.",
+    "price": 13.0,
+    "image_url": "assets/images/dishes/chef_lola_jollof.jpg",
+    "is_popular": false,
+    "tags": [
+     "rice",
+     "chicken",
+     "protein"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "rice-and-stew",
+    "name": "White Rice & Ofada Stew",
+    "description": "Fluffy white rice with a rich ofada pepper stew, boiled egg and assorted meat.",
+    "price": 11.5,
+    "image_url": "assets/images/dishes/rice_and_stew.jpg",
+    "is_popular": false,
+    "tags": [
+     "rice",
+     "spicy",
+     "breakfast"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "soups",
+  "name": {
+   "en": "Soup & Swallow Meals",
+   "tr": "Çorba & Swallow"
+  },
+  "items": [
+   {
+    "id": "seafood-okra",
+    "name": "Seafood Okra Soup",
+    "description": "A luxury mix of fresh okra, prawns, crab, and catfish. A \"draw\" soup favorite.",
+    "price": 14.5,
+    "image_url": "assets/images/dishes/seafood_okra_soup.jpg",
+    "is_popular": false,
+    "tags": [
+     "seafood",
+     "soup"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "efo-riro",
+    "name": "Efo Riro & Pounded Yam",
+    "description": "Rich spinach stew with assorted meats and locust beans, served with smooth pounded yam.",
+    "price": 13.0,
+    "image_url": "assets/images/dishes/efo_riro.jpg",
+    "is_popular": false,
+    "tags": [
+     "soup",
+     "vegetarian"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "fufu-egusi",
+    "name": "Fufu & Egusi",
+    "description": "Melon-seed soup with leafy greens and assorted meat, served with soft fufu.",
+    "price": 6.01,
+    "image_url": "assets/images/dishes/pounded_yam.jpg",
+    "is_popular": true,
+    "tags": [
+     "soup",
+     "swallow"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "fish-pepper-soup",
+    "name": "Catfish Pepper Soup",
+    "description": "Light, fiery broth with fresh catfish, uziza and scent leaves.",
+    "price": 12.0,
+    "image_url": "assets/images/dishes/fish_pepper_soup.jpg",
+    "is_popular": false,
+    "tags": [
+     "soup",
+     "seafood",
+     "spicy"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "pounded-yam",
+    "name": "Pounded Yam & Ogbono",
+    "description": "Smooth pounded yam with a hearty ogbono soup and assorted meat.",
+    "price": 13.5,
+    "image_url": "assets/images/dishes/pounded_yam.jpg",
+    "is_popular": false,
+    "tags": [
+     "soup",
+     "swallow"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "goat-stew-chapati",
+    "name": "Goat Stew & Chapati",
+    "description": "Slow-cooked Kenyan goat stew with tomatoes and dhania, served with two soft chapatis.",
+    "price": 12.5,
+    "image_url": "assets/images/dishes/goat_stew_chapati.jpg",
+    "is_popular": false,
+    "tags": [
+     "stew",
+     "protein"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "grill",
+  "name": {
+   "en": "Grilled & BBQ",
+   "tr": "Izgara & BBQ"
+  },
+  "items": [
+   {
+    "id": "grilled-tilapia",
+    "name": "Whole Grilled Tilapia",
+    "description": "Marinated in a secret blend of herbs and smoky spices. Served with a side of plantain and pepper sauce.",
+    "price": 24.99,
+    "image_url": "assets/images/dishes/grilled_tilapia.jpg",
+    "is_popular": false,
+    "tags": [
+     "seafood",
+     "grill",
+     "protein"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "beef-kebab-chips",
+    "name": "Beef Kebab with chips",
+    "description": "Juicy beef skewers with peppers and onions, served with crispy chips.",
+    "price": 6.01,
+    "image_url": "assets/images/dishes/beef_kebab_chips.jpg",
+    "is_popular": true,
+    "tags": [
+     "grill",
+     "protein"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "beef-kebab-rice",
+    "name": "Beef Kebab with rice",
+    "description": "Spiced beef kebab on a bed of brown rice and herby pasta salad.",
+    "price": 6.01,
+    "image_url": "assets/images/dishes/beef_kebab_rice.jpg",
+    "is_popular": true,
+    "tags": [
+     "grill",
+     "rice",
+     "protein"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     },
+     {
+      "id": "protein",
+      "title": {
+       "en": "Choose Your Protein",
+       "tr": "Proteinini Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "chicken",
+        "name": {
+         "en": "Grilled Quarter Chicken",
+         "tr": "Izgara Çeyrek Tavuk"
+        },
+        "price": 3.0
+       },
+       {
+        "id": "beef",
+        "name": {
+         "en": "Peppered Beef",
+         "tr": "Biberli Dana"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "goat",
+        "name": {
+         "en": "Goat Meat",
+         "tr": "Keçi Eti"
+        },
+        "price": 3.5
+       },
+       {
+        "id": "fish",
+        "name": {
+         "en": "Fried Croaker Fish",
+         "tr": "Kızarmış Balık"
+        },
+        "price": 4.0
+       }
+      ]
+     },
+     {
+      "id": "sides",
+      "title": {
+       "en": "Add Extra Sides",
+       "tr": "Ekstra Garnitür Ekle"
+      },
+      "is_required": false,
+      "min_select": 0,
+      "max_select": 3,
+      "options": [
+       {
+        "id": "plantain",
+        "name": {
+         "en": "Portion of Plantain",
+         "tr": "Bir Porsiyon Plantain"
+        },
+        "price": 2.5
+       },
+       {
+        "id": "moinmoin",
+        "name": {
+         "en": "Steamed Moin Moin Slice",
+         "tr": "Buharda Moin Moin"
+        },
+        "price": 2.0
+       },
+       {
+        "id": "coleslaw",
+        "name": {
+         "en": "Coleslaw",
+         "tr": "Lahana Salatası"
+        },
+        "price": 1.5
+       },
+       {
+        "id": "yaji",
+        "name": {
+         "en": "Extra Yaji Spice",
+         "tr": "Ekstra Yaji Baharatı"
+        },
+        "price": 0.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "kilishi",
+    "name": "Kilishi (Spiced Beef Jerky)",
+    "description": "Sun-dried, thinly sliced beef coated in groundnut and yaji spice.",
+    "price": 8.5,
+    "image_url": "assets/images/dishes/kilishi.jpg",
+    "is_popular": false,
+    "tags": [
+     "grill",
+     "snack",
+     "spicy",
+     "protein"
+    ],
+    "option_groups": []
+   },
+   {
+    "id": "fried-fish-yaji",
+    "name": "Fried Fish with Yaji",
+    "description": "Crispy fried croaker dusted with yaji, served with pepper sauce and plantain.",
+    "price": 14.0,
+    "image_url": "assets/images/dishes/fried_fish_yaji.jpg",
+    "is_popular": false,
+    "tags": [
+     "seafood",
+     "grill",
+     "spicy"
+    ],
+    "option_groups": [
+     {
+      "id": "spice",
+      "title": {
+       "en": "Spice Level",
+       "tr": "Acılık Seviyesi"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "classic",
+        "name": {
+         "en": "Classic (Medium)",
+         "tr": "Klasik (Orta)"
+        },
+        "price": 0
+       },
+       {
+        "id": "hot",
+        "name": {
+         "en": "Extra Spiced (Hot)",
+         "tr": "Ekstra Acılı"
+        },
+        "price": 0
+       },
+       {
+        "id": "mild",
+        "name": {
+         "en": "Mild",
+         "tr": "Hafif"
+        },
+        "price": 0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "snacks",
+  "name": {
+   "en": "Pastries & Snacks",
+   "tr": "Hamur İşleri & Atıştırmalıklar"
+  },
+  "items": [
+   {
+    "id": "puff-puff",
+    "name": "Fresh Puff Puff (Bag of 10)",
+    "description": "Golden-brown, doughy balls with a hint of nutmeg and cinnamon. Soft and chewy.",
+    "price": 7.99,
+    "image_url": "assets/images/dishes/puff_puff.jpg",
+    "is_popular": true,
+    "tags": [
+     "snack",
+     "breakfast"
+    ],
+    "option_groups": []
+   },
+   {
+    "id": "plantain-chips",
+    "name": "Spicy Plantain Chips",
+    "description": "Thinly sliced, crunchy plantain—savory and sweet.",
+    "price": 3.5,
+    "image_url": "assets/images/dishes/plantain_chips.jpg",
+    "is_popular": false,
+    "tags": [
+     "snack",
+     "vegan"
+    ],
+    "option_groups": []
+   }
+  ]
+ },
+ {
+  "id": "drinks",
+  "name": {
+   "en": "Drinks",
+   "tr": "İçecekler"
+  },
+  "items": [
+   {
+    "id": "zobo",
+    "name": "Signature Zobo (Hibiscus)",
+    "description": "Homemade hibiscus tea with ginger, pineapple, and cloves.",
+    "price": 3.95,
+    "image_url": "assets/images/dishes/zobo.jpg",
+    "is_popular": false,
+    "tags": [
+     "drink"
+    ],
+    "option_groups": [
+     {
+      "id": "size",
+      "title": {
+       "en": "Choose a Size",
+       "tr": "Boyut Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "regular",
+        "name": {
+         "en": "Regular (50cl)",
+         "tr": "Normal (50cl)"
+        },
+        "price": 0
+       },
+       {
+        "id": "large",
+        "name": {
+         "en": "Large (1L)",
+         "tr": "Büyük (1L)"
+        },
+        "price": 1.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "chapman",
+    "name": "Chapman classic",
+    "description": "The ultimate Nigerian cocktail: fruity soda with bitters, cucumber, and lemon.",
+    "price": 4.5,
+    "image_url": "assets/images/dishes/chapman.jpg",
+    "is_popular": true,
+    "tags": [
+     "drink"
+    ],
+    "option_groups": [
+     {
+      "id": "size",
+      "title": {
+       "en": "Choose a Size",
+       "tr": "Boyut Seç"
+      },
+      "is_required": true,
+      "min_select": 1,
+      "max_select": 1,
+      "options": [
+       {
+        "id": "regular",
+        "name": {
+         "en": "Regular (50cl)",
+         "tr": "Normal (50cl)"
+        },
+        "price": 0
+       },
+       {
+        "id": "large",
+        "name": {
+         "en": "Large (1L)",
+         "tr": "Büyük (1L)"
+        },
+        "price": 1.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

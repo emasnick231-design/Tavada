@@ -1,0 +1,985 @@
+{
+  "@@locale": "en",
+  "appName": "Tavada Eats",
+  "appTagline": "Always African, anywhere",
+  "commonContinue": "Continue",
+  "commonCancel": "Cancel",
+  "commonSave": "Save",
+  "commonSaveChanges": "Save changes",
+  "commonDone": "Done",
+  "commonApply": "Apply",
+  "commonReset": "Reset",
+  "commonRetry": "Try again",
+  "commonClose": "Close",
+  "commonBack": "Back",
+  "commonNext": "Next",
+  "commonSeeAll": "See all",
+  "commonSearch": "Search",
+  "commonClearAll": "Clear all",
+  "commonEdit": "Edit",
+  "commonChange": "Change",
+  "commonDelete": "Delete",
+  "commonRemove": "Remove",
+  "commonConfirm": "Confirm",
+  "commonYes": "Yes",
+  "commonNo": "No",
+  "commonOk": "OK",
+  "commonRequired": "Required",
+  "commonOptional": "Optional",
+  "commonFree": "Free",
+  "commonOr": "or",
+  "commonToday": "Today",
+  "commonYesterday": "Yesterday",
+  "commonJustNow": "Just now",
+  "commonReadMore": "Read more",
+  "commonShowLess": "Show less",
+  "commonMoreInfo": "more info",
+  "commonComingSoon": "Coming soon",
+  "commonComingSoonMessage": "{feature} is coming soon. Hang tight!",
+  "@commonComingSoonMessage": {
+    "placeholders": {
+      "feature": {
+        "type": "String"
+      }
+    }
+  },
+  "commonMinutes": "{count} min",
+  "@commonMinutes": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonMinutesLong": "{count, plural, =1{1 min} other{{count} mins}}",
+  "@commonMinutesLong": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonMiles": "{distance} mi",
+  "@commonMiles": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "commonResults": "{count, plural, =0{No results} =1{1 result} other{{count} results}}",
+  "@commonResults": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonItems": "{count, plural, =1{1 item} other{{count} items}}",
+  "@commonItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonRelativeMonths": "{count, plural, =1{1 month ago} other{{count} months ago}}",
+  "@commonRelativeMonths": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commonRelativeDays": "{count, plural, =1{1 day ago} other{{count} days ago}}",
+  "@commonRelativeDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "navHome": "Home",
+  "navStores": "Stores",
+  "navBasket": "Basket",
+  "navProfile": "Profile",
+  "legalAgreePrefix": "By continuing you agree to our",
+  "legalPrivacyPolicy": "Privacy Policy",
+  "legalAnd": "and",
+  "legalTermsOfUse": "Terms of Use",
+  "errorTitle": "Oops!",
+  "errorNetwork": "You're offline. Check your connection and try again.",
+  "errorTimeout": "This is taking longer than usual. Please try again.",
+  "errorServer": "Something went wrong on our side. Please try again.",
+  "errorUnauthorized": "Your session has expired. Please sign in again.",
+  "errorNotFound": "We couldn't find what you were looking for.",
+  "errorUnexpected": "Something unexpected happened. Please try again.",
+  "offlineBanner": "You're offline. We'll reconnect automatically.",
+  "backOnlineBanner": "Back online",
+  "emptyGenericTitle": "Nothing here yet",
+  "emptyGenericMessage": "Check back soon — new things are cooking.",
+  "signInRequiredTitle": "Sign in to continue",
+  "signInRequiredMessage": "Create an account or log in to place orders, track deliveries and earn rewards.",
+  "signInRequiredAction": "Sign in",
+  "languageEnglish": "English",
+  "languageTurkish": "Türkçe",
+  "languageSystem": "System default",
+  "ratingExcellent": "Excellent",
+  "ratingVeryGood": "Very Good",
+  "ratingGood": "Good",
+  "ratingFair": "Fair",
+  "mapAttribution": "© OpenStreetMap © CARTO",
+  "errorGoHome": "Go to home",
+  "errorPageNotFound": "This page doesn’t exist (anymore). Let’s get you back to the food.",
+  "authEmailTitle": "Create your account",
+  "authEmailSubtitle": "Tell us your name and the email we’ll use to verify your account",
+  "authEmailHint": "Enter your email",
+  "authHaveAccount": "Have an account?",
+  "authLogIn": "Log in",
+  "authPhoneTitle": "What is your phone number?",
+  "authPhoneSubtitle": "You'll use this number to get notifications, sign in, and recover account",
+  "authPasswordTitle": "Set your account password",
+  "authPasswordSubtitle": "Your password should be at least 8 characters long and contain a letter and a number or special character",
+  "authPasswordHint": "Enter your password",
+  "authRuleLength": "You have at least 8 characters",
+  "authRuleSpecial": "It contains a number or special character",
+  "authRuleLetter": "It has one letter",
+  "authOtpTitleEmail": "We sent a code to your email, enter it here to continue",
+  "authOtpTitlePhone": "We sent a code to your phone, enter it here to continue",
+  "authOtpSentTo": "Sent to {destination}",
+  "@authOtpSentTo": {
+    "placeholders": {
+      "destination": {
+        "type": "String"
+      }
+    }
+  },
+  "authChangeEmail": "Change your email?",
+  "authChangePhone": "Change your number?",
+  "authResendIn": "Resend code in {time}",
+  "@authResendIn": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "authResendCode": "Resend code",
+  "authCodeResent": "A new code is on its way",
+  "authOtpDevTip": "Dev tip: use 1234",
+  "authWelcomeBackTitle": "Welcome back!",
+  "authWelcomeBackSubtitle": "Enter your details to continue",
+  "authUsePhone": "Use phone number?",
+  "authUseEmail": "Use email instead?",
+  "authForgotPasswordLink": "Forgot password?",
+  "authNoAccount": "Don't have an account?",
+  "authSignUp": "Sign up",
+  "authLoginDemoTip": "Demo: emasv58@yahoo.com · Password1!",
+  "authForgotTitle": "Forgot your password?",
+  "authForgotSubtitle": "We will send a verification code to your email",
+  "authResetTitle": "Reset your password",
+  "authResetSubtitle": "Make the changes you need, don't use an old one",
+  "authConfirmPasswordHint": "Confirm password",
+  "authPasswordsMismatch": "Passwords don't match",
+  "authCompleteChanges": "Complete changes",
+  "authPasswordUpdated": "Password updated. Log in with your new password.",
+  "authWelcomeToast": "Welcome, {name}!",
+  "@authWelcomeToast": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "authErrorInvalidCredentials": "Incorrect email or password",
+  "authErrorPhoneNotFound": "We couldn't find an account with that number. Sign up instead?",
+  "authErrorInvalidCode": "That code isn't right. Check it and try again.",
+  "authErrorEmailTaken": "An account with this email already exists. Log in instead?",
+  "authErrorInvalidEmail": "Enter a valid email address",
+  "authSelectCountry": "Select country",
+  "authSearchCountry": "Search country",
+  "authFlowExpired": "This step has expired. Please start again.",
+  "authFirstNameHint": "First name",
+  "authLastNameHint": "Last name",
+  "basketTitle": "Basket",
+  "basketClearOrders": "Clear orders",
+  "basketTabBaskets": "My Orders",
+  "basketTabOngoing": "Ongoing",
+  "basketTabCompleted": "Completed",
+  "basketItemsTotal": "{items} · {total}",
+  "@basketItemsTotal": {
+    "placeholders": {
+      "items": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "basketDeliverTo": "To: ",
+  "basketVisitStore": "Visit store",
+  "basketCheckout": "Checkout",
+  "basketClearAllTitle": "Clear all baskets?",
+  "basketClearAllMessage": "Every item in your baskets will be removed.",
+  "basketClearAllConfirm": "Clear all",
+  "basketEmptyTitle": "Your basket is empty",
+  "basketEmptyMessage": "Dishes you add from restaurants will show up here.",
+  "basketBrowse": "Find something tasty",
+  "basketNoOngoingTitle": "No orders on the way",
+  "basketNoOngoingMessage": "When you place an order you can track it here.",
+  "basketNoCompletedTitle": "No past orders yet",
+  "basketNoCompletedMessage": "Orders you've received will be listed here.",
+  "basketOrderNumber": "Order {number}",
+  "@basketOrderNumber": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "basketTrackOrder": "Track order",
+  "basketReorder": "Order again",
+  "basketViewDetails": "View details",
+  "basketSignInMessage": "Sign in to see your ongoing and past orders.",
+  "basketViewTimeline": "View timeline",
+  "basketOrderEta": "{status} · arriving {time}",
+  "@basketOrderEta": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "basketRemoved": "{store} basket removed",
+  "@basketRemoved": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      }
+    }
+  },
+  "basketUndo": "Undo",
+  "cartAdded": "Added to your basket",
+  "cartViewBasket": "View basket",
+  "checkoutTitle": "Checkout",
+  "checkoutHideSelections": "Hide selections",
+  "checkoutShowSelections": "Show selections",
+  "checkoutPack": "Pack {number}",
+  "@checkoutPack": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "checkoutYourSelections": "Your Selections",
+  "checkoutEditSelection": "Edit selection",
+  "checkoutAddAnotherItem": "Add another item",
+  "checkoutDeliveryInfo": "Delivery Info",
+  "checkoutDelivery": "Delivery",
+  "checkoutPickup": "Pickup",
+  "checkoutMiles": "{distance} miles",
+  "@checkoutMiles": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutChooseAddress": "Choose a delivery address",
+  "checkoutDeliveryInstructions": "Delivery instructions",
+  "checkoutDeliveryInstructionsHint": "Add specific information to the rider",
+  "checkoutAllergyInfo": "Allergy & Dietary Info",
+  "checkoutAllergyInformation": "Allergy Information",
+  "checkoutDietaryLabels": "Dietary Labels",
+  "checkoutDeliversIn": "{minutes, plural, =1{Delivers in 1 min} other{Delivers in {minutes} mins}}",
+  "@checkoutDeliversIn": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "checkoutStoreLocation": "Store location",
+  "checkoutDistance": "Distance",
+  "checkoutPickupTime": "Pickup time",
+  "checkoutPickupWindow": "{from} - {to} mins",
+  "@checkoutPickupWindow": {
+    "placeholders": {
+      "from": {
+        "type": "int"
+      },
+      "to": {
+        "type": "int"
+      }
+    }
+  },
+  "checkoutPaymentOption": "Choose your payment option",
+  "checkoutPayWithWallet": "Pay with wallet",
+  "checkoutWalletBalance": "Bal: {balance}",
+  "@checkoutWalletBalance": {
+    "placeholders": {
+      "balance": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutPayWithCard": "Use credit or debit card",
+  "checkoutWalletTooLow": "Balance too low for this order",
+  "checkoutCutlery": "Request cutlery or straws",
+  "checkoutSendAsGift": "Send as gift",
+  "checkoutGiftFor": "Gift for {name}",
+  "@checkoutGiftFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutGiftSaved": "Gift details saved",
+  "checkoutPaymentSummary": "Payment summary",
+  "checkoutSubtotal": "Subtotal",
+  "checkoutDeliveryFee": "Delivery fee",
+  "checkoutServiceFee": "Service fee",
+  "checkoutDiscount": "Discount applied",
+  "checkoutTotal": "Total",
+  "checkoutMakePayment": "Make payment",
+  "checkoutClearTitle": "Clear this basket?",
+  "checkoutClearMessage": "All items from {store} will be removed.",
+  "@checkoutClearMessage": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutClearConfirm": "Clear basket",
+  "checkoutRemovePackTitle": "Remove this pack?",
+  "checkoutRemovePackMessage": "{name} will be removed from your basket.",
+  "@checkoutRemovePackMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutInstructionsHint": "Leave a message...",
+  "checkoutAddNote": "Add note",
+  "checkoutGiftTitle": "Customize your gift",
+  "checkoutGiftSender": "Who is sending this gift?",
+  "checkoutGiftRecipient": "Who is this gift for?",
+  "checkoutGiftRecipientHint": "Enter their name or nickname",
+  "checkoutGiftPhone": "Recipient’s phone number",
+  "checkoutGiftFindContacts": "Find from contacts",
+  "checkoutGiftNote": "Add a note",
+  "checkoutGiftSave": "Save gift",
+  "checkoutGiftRemove": "Remove gift",
+  "checkoutContactsTitle": "Choose a contact",
+  "checkoutEmptyTitle": "Your basket is empty",
+  "checkoutEmptyMessage": "Add a few dishes to check out.",
+  "checkoutBackToStore": "Back to store",
+  "checkoutUseCard": "Use card",
+  "checkoutClosedBanner": "{store} is closed right now. It opens at {time}.",
+  "@checkoutClosedBanner": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutCountryPicker": "Select country",
+  "checkoutCountrySearch": "Search country",
+  "checkoutQuoteFailed": "We couldn’t update your total. Try again before paying.",
+  "checkoutTopUp": "Top up",
+  "checkoutWalletBlocked": "Top up your wallet or pay by card to continue.",
+  "checkoutClosedShort": "{store} is closed · opens at {time}",
+  "@checkoutClosedShort": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "homeNow": "Now",
+  "homeAddAddress": "Add a delivery address",
+  "homeFilter": "Filter",
+  "homeSearchHint": "Search African dishes and restaurants",
+  "homeFilterDiscounts": "Discounts",
+  "homeFilterCuisines": "Cuisines",
+  "homeFilterTopRated": "Top-rated",
+  "homeFilterUnder30": "Under 30 min",
+  "homeFilterDietary": "Dietary",
+  "homeFilterDeliveryFee": "Delivery fee",
+  "homeFilterOffers": "Offers",
+  "homeCuisinesTitle": "Choose your favourite cuisines",
+  "homeDietaryTitle": "Dietary",
+  "homeDeliveryFeeTitle": "Delivery fee",
+  "homeChangeLocationTitle": "Change location to..",
+  "homeSearchElsewhere": "Search someplace else",
+  "homeUseCurrentLocation": "Use my current location",
+  "homeNoResultsTitle": "No places match your filters",
+  "homeNoResultsMessage": "Try removing a filter or two",
+  "homeListEmptyTitle": "Nothing here yet",
+  "homeListEmptyMessage": "New places are joining Tavada every week.",
+  "homeNoStoresTitle": "We’re not in your area yet",
+  "homeNoStoresMessage": "No stores deliver to this address yet. Try another address.",
+  "homeChangeAddress": "Change address",
+  "locationIntroShout": "Howfa naw!",
+  "locationIntroTitle": "Where do you stay?",
+  "locationIntroBody": "Help us know your location so that we can show you nearby places you can order from",
+  "locationFindMe": "Find me",
+  "locationSearchInstead": "Search for an address instead",
+  "locationPickerTitle": "Choose location",
+  "locationSearchHint": "Search here or move map",
+  "locationDragHint": "Drag the map to your preferred location",
+  "locationConfirmCurrent": "Confirm your current location",
+  "locationSelect": "Select this location",
+  "locationResolving": "Finding address…",
+  "locationDroppedPin": "Dropped pin",
+  "locationRecenter": "Recenter",
+  "locationNoResultsTitle": "No places found",
+  "locationNoResultsMessage": "Try a street, area or postcode",
+  "locationSearchEmptyTitle": "Where should we deliver?",
+  "locationSearchEmptyMessage": "Search for a street, area or postcode",
+  "locationUseCurrent": "Use my current location",
+  "locationServiceDisabledTitle": "Location is turned off",
+  "locationServiceDisabledMessage": "Turn on location services to find restaurants near you, or pick your address on the map.",
+  "locationDeniedForeverTitle": "Location access is off",
+  "locationDeniedForeverMessage": "Allow location access for Tavada Eats in Settings, or pick your address on the map.",
+  "locationOpenSettings": "Open settings",
+  "locationChooseOnMap": "Choose on map",
+  "locationFallbackToast": "We couldn't get your location, so we've started you in London.",
+  "locationDeliveringTo": "Delivering to {address}",
+  "@locationDeliveringTo": {
+    "placeholders": {
+      "address": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPinnedTitle": "Pinned location",
+  "locationResolveFailed": "We couldn’t look up this address. You can still use the pin.",
+  "onboardingContinueAsGuest": "Continue as guest",
+  "onboardingHeadlineTop": "ALWAYS AFRICAN",
+  "onboardingHeadlineBottom": "ANYWHERE",
+  "onboardingGetStarted": "Get started",
+  "onboardingLogIn": "Log in to your account",
+  "onboardingContinueWithApple": "Continue with Apple",
+  "onboardingContinueWithGoogle": "Continue with Google",
+  "onboardingContinueWithEmail": "Continue with Email",
+  "onboardingAppleSignIn": "Sign in with Apple",
+  "onboardingGoogleSignIn": "Sign in with Google",
+  "ordersHangTight": "Hang tight, we are on it",
+  "ordersEstimatedArrival": "Estimated arrival",
+  "ordersStatusPlaced": "Order placed",
+  "ordersStatusPreparing": "Preparing order",
+  "ordersStatusRiderPicked": "Rider picks order",
+  "ordersStatusDispatched": "Order dispatched",
+  "ordersStatusDelivered": "Delivered",
+  "ordersStatusCancelled": "Cancelled",
+  "ordersCallRider": "Call rider",
+  "ordersDeliveryInfo": "Delivery Info",
+  "ordersAddress": "Address",
+  "ordersPickupFrom": "Pickup from",
+  "ordersInstruction": "Delivery instruction",
+  "ordersNoInstruction": "No instructions for the rider",
+  "ordersChange": "Change",
+  "ordersEdit": "Edit",
+  "ordersChangeAfterPlacing": "This order is already on its way. Chat with us to change the delivery details.",
+  "ordersChat": "Chat",
+  "ordersSummary": "Order summary",
+  "ordersPaymentDetails": "Payment details",
+  "ordersPaymentSummary": "Payment summary",
+  "ordersArrivedIn": "{minutes, plural, =1{Yay! Your food arrived in just 1 min} other{Yay! Your food arrived in just {minutes} mins}}",
+  "@ordersArrivedIn": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersRateBy": "Rate your delivery by ",
+  "ordersThanksRating": "Thanks for rating your delivery!",
+  "ordersRepeat": "Repeat order",
+  "ordersRepeated": "Added to your basket",
+  "ordersTimeOfDelivery": "Time of delivery",
+  "ordersEstimatedDelivery": "Estimated delivery",
+  "ordersMilestoneConfirmed": "{store} has confirmed your order",
+  "@ordersMilestoneConfirmed": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersMilestoneRiderAssigned": "A rider has been assigned to your order",
+  "ordersMilestoneReady": "Your order is ready to be picked by the rider",
+  "ordersMilestonePickedUp": "The rider has picked up your order",
+  "ordersMilestoneArrived": "The rider arrived at your location",
+  "ordersViewTimeline": "View timeline",
+  "ordersGiftFor": "Gift for {name}",
+  "@ordersGiftFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRepeatTitle": "You already have a {store} basket",
+  "@ordersRepeatTitle": {
+    "placeholders": {
+      "store": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRepeatMessage": "Replace it with this order, or add these items to it?",
+  "ordersRepeatReplace": "Replace basket",
+  "ordersRepeatAdd": "Add to basket",
+  "ordersRepeatUnavailable": "{count, plural, =1{1 item is no longer available and was left out} other{{count} items are no longer available and were left out}}",
+  "@ordersRepeatUnavailable": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersNeedHelp": "Need help with this order?",
+  "profileGuest": "Hi there!",
+  "profileGuestMessage": "Sign in to see your wallet, rewards and orders.",
+  "profileSignIn": "Sign in or create account",
+  "profileWalletBalance": "Wallet Balance",
+  "profileAddMoney": "Add funds",
+  "profileSeeActivity": "See activity",
+  "profileUpdatePhone": "Update phone number",
+  "profileChangePassword": "Change password",
+  "profileNotifications": "Notification preferences",
+  "profileRewards": "Rewards",
+  "profileAccessibility": "Accessibility",
+  "profileHelp": "Get help",
+  "profileLanguage": "Language",
+  "profileHaptics": "Haptic feedback",
+  "profileLogout": "Log out",
+  "profileLogoutTitle": "Log out?",
+  "profileLogoutMessage": "You can sign back in any time. Your baskets stay on this device.",
+  "profilePointsToNext": "{points} pts",
+  "@profilePointsToNext": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "profilePointsToNextSuffix": " more to next reward",
+  "profileEarnReward": "Earn {value} when you reach {points} pts",
+  "@profileEarnReward": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "profileRedeemPoints": "Redeem points",
+  "profileReferFriend": "Refer a friend,\nget {points}pts",
+  "@profileReferFriend": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "profileRedeemed": "{value} added to your wallet!",
+  "@profileRedeemed": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "profileVersion": "Version {version}",
+  "@profileVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "updatePhoneTitle": "Update your phone number?",
+  "updatePhoneSubtitle": "You'll use this number to get notifications, sign in, and recover account",
+  "updatePhoneSaved": "Phone number updated",
+  "changePasswordTitle": "Change your password",
+  "changePasswordSubtitle": "Enter your current password, then choose a new one",
+  "changePasswordSaved": "Password changed",
+  "notificationsTitle": "Notification preferences",
+  "notificationsSubtitle": "Choose how you would like to get notified for special offers, promos, and more",
+  "notificationsPush": "Push notifications",
+  "notificationsWhatsapp": "WhatsApp",
+  "notificationsEmail": "Email",
+  "notificationsOn": "On",
+  "notificationsOff": "Off",
+  "notificationsCategoriesTitle": "Categories",
+  "notificationsOrderStatus": "Order Status Update",
+  "notificationsOrderStatusBody": "Allow to send notifications and show live order tracking updates",
+  "notificationsPromotions": "Promotional Notifications",
+  "notificationsPromotionsBody": "Notify me about exclusive offers, money saving offers, and promotions",
+  "notificationsRecommendations": "Recommendations",
+  "notificationsRecommendationsBody": "Let me know about recommendations on great food, groceries and more",
+  "notificationsReminders": "Reminders",
+  "notificationsRemindersBody": "Notify me for unfinished orders",
+  "notificationsSaved": "Preferences saved",
+  "accessibilityTitle": "Accessibility",
+  "accessibilitySubtitle": "Help riders and stores serve you better",
+  "accessibilityHearing": "Hearing",
+  "accessibilityHearingBody": "Choose to disclose to riders whether you are deaf or have difficulty hearing",
+  "accessibilityHearingNone": "I am not deaf or hard of hearing",
+  "accessibilityHearingDeaf": "I am deaf",
+  "accessibilityHearingHard": "I am hard of hearing",
+  "accessibilitySaved": "Accessibility settings saved",
+  "addMoneyTitle": "Add money",
+  "addMoneyBalance": "Balance: {balance}",
+  "@addMoneyBalance": {
+    "placeholders": {
+      "balance": {
+        "type": "String"
+      }
+    }
+  },
+  "addMoneySecurely": "Add money securely",
+  "addMoneySuccess": "{amount} added to your wallet",
+  "@addMoneySuccess": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "walletActivityTitle": "Wallet activity",
+  "walletEmptyTitle": "No activity yet",
+  "walletEmptyMessage": "Top-ups, payments and refunds will show up here.",
+  "walletTopUp": "Wallet top-up",
+  "walletPayment": "Order payment",
+  "walletRefund": "Refund",
+  "walletReward": "Reward",
+  "rewardsTitle": "Rewards",
+  "rewardsPoints": "{points} pts",
+  "@rewardsPoints": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsYourPoints": "Your points",
+  "rewardsHowItWorks": "How it works",
+  "rewardsHow1": "Earn 10 points for every £1 you spend.",
+  "rewardsHow2": "Redeem {points} points for {value} wallet credit.",
+  "@rewardsHow2": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      },
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsHow3": "Invite friends with your code — you both get {points} points.",
+  "@rewardsHow3": {
+    "placeholders": {
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsReferralCode": "Your referral code",
+  "rewardsShare": "Share code",
+  "rewardsShareText": "Join me on Tavada Eats with my code {code} and we both get bonus points!",
+  "@rewardsShareText": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsCopied": "Code copied",
+  "languageTitle": "Language",
+  "languageSubtitle": "Choose the language for the app",
+  "changePasswordCurrentHint": "Current password",
+  "changePasswordNewHint": "New password",
+  "updatePhoneCodeTitle": "Enter the code we sent you",
+  "updatePhoneCodeSubtitle": "We sent a 4-digit code to {phone} to make sure it’s yours",
+  "@updatePhoneCodeSubtitle": {
+    "placeholders": {
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "updatePhoneVerify": "Verify and save",
+  "profileEditName": "Edit your name",
+  "profileEditNameSubtitle": "This is how stores and riders will greet you",
+  "profileNameSaved": "Name updated",
+  "profileEditProfile": "Edit name",
+  "profileDeleteAccount": "Delete account",
+  "profileDeleteTitle": "Delete your account?",
+  "profileDeleteMessage": "This permanently deletes your account, order history, wallet balance and reward points. It can’t be undone.",
+  "profileDeleteConfirm": "Delete my account",
+  "profileDeleted": "Your account has been deleted",
+  "addMoneyMinimum": "Minimum top-up is {amount} · charged to {card}",
+  "@addMoneyMinimum": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "card": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardsPointsSuffix": " pts",
+  "restaurantComments": "{count} comments",
+  "@restaurantComments": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "restaurantDeliveryTime": "Delivery Time",
+  "restaurantCuisine": "Cuisine",
+  "restaurantDeliveryFee": "Delivery fee",
+  "restaurantAiSummary": "AI summary",
+  "restaurantAiDisclaimer": "This summary is automatically generated from customer reviews. We do not guarantee the accuracy, timeliness, or completeness of the information provided.",
+  "restaurantPopularOrders": "Popular orders",
+  "restaurantMenu": "Menu",
+  "restaurantSearchMenu": "Search menu",
+  "restaurantSearchMenuHint": "Search dishes and drinks",
+  "restaurantSearchMenuMessage": "Find your favourite dish or drink here",
+  "restaurantNoDishesTitle": "No dishes found",
+  "restaurantNoDishesMessage": "Try a different name or ingredient",
+  "restaurantOpenUntil": "Open now · Until {time}",
+  "@restaurantOpenUntil": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantClosedOpensAt": "Closed · Opens {time}",
+  "@restaurantClosedOpensAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantRatingReviews": "{rating} ({count} reviews)",
+  "@restaurantRatingReviews": {
+    "placeholders": {
+      "rating": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "restaurantAllergyInfo": "Allergy & Dietary Info",
+  "restaurantAllergyInformation": "Allergy Information",
+  "restaurantDietaryLabels": "Dietary Labels",
+  "restaurantOrdersCount": "{count} orders",
+  "@restaurantOrdersCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantOrdersPeriod": "in the last 12 months",
+  "restaurantAddressCopied": "Address copied",
+  "restaurantMilesAway": "{distance} miles",
+  "@restaurantMilesAway": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantShareText": "Order from {name} on Tavada Eats",
+  "@restaurantShareText": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantClosedBanner": "Closed right now. You can still browse the menu.",
+  "reviewsTitle": "Reviews",
+  "reviewsCount": "{count}+ reviews",
+  "@reviewsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "reviewsComments": "Comments",
+  "reviewsRestaurantReply": "Restaurant's Reply",
+  "reviewsThanksFeedback": "Thanks for your feedback",
+  "reviewsEmptyTitle": "No reviews yet",
+  "reviewsEmptyMessage": "Be the first to order and leave a review.",
+  "dishRequired": "Required",
+  "dishOptional": "Optional",
+  "dishChooseUpTo": "Choose up to {count}",
+  "@dishChooseUpTo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dishAddFor": "Add for {price}",
+  "@dishAddFor": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "dishUpdateFor": "Update order for {price}",
+  "@dishUpdateFor": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "dishPercentOff": "{percent}% off",
+  "@dishPercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "dishAllergenNotice": "Food may contain allergens. Questions for specific allergen information? ",
+  "dishContactRestaurant": "Please contact the restaurant",
+  "dishNoteHint": "Add a note for the kitchen (optional)",
+  "dishDeliveryMeta": "{fee} Delivery fee · {eta}",
+  "@dishDeliveryMeta": {
+    "placeholders": {
+      "fee": {
+        "type": "String"
+      },
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "dishFreeDeliveryMeta": "Free delivery · {eta}",
+  "@dishFreeDeliveryMeta": {
+    "placeholders": {
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "dishChooseRequired": "Choose an option for “{group}”",
+  "@dishChooseRequired": {
+    "placeholders": {
+      "group": {
+        "type": "String"
+      }
+    }
+  },
+  "dishMaxReached": "You can choose up to {count}",
+  "@dishMaxReached": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "restaurantClosedBannerAt": "Closed right now · opens at {time}. You can still browse the menu.",
+  "@restaurantClosedBannerAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "dishNoteTitle": "Special instructions",
+  "searchHint": "Search African dishes and restaurants",
+  "searchRecent": "Recent searches",
+  "searchCategories": "Categories",
+  "searchTrendyCuisines": "Trendy cuisines near you",
+  "searchFor": "Search for “{query}”",
+  "@searchFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchAllAfrica": "All Africa",
+  "searchDeliveryFee": "{fee} Delivery fee",
+  "@searchDeliveryFee": {
+    "placeholders": {
+      "fee": {
+        "type": "String"
+      }
+    }
+  },
+  "searchFreeDelivery": "Free delivery",
+  "searchNoResultsTitle": "No matches for “{query}”",
+  "@searchNoResultsTitle": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchNoResultsMessage": "Check the spelling or try a different dish, drink or restaurant.",
+  "helpTitle": "How can we help?",
+  "helpSubtitle": "Our team is ready to help you 24/7",
+  "helpChatWithPerson": "Chat with a person",
+  "helpWasHelpful": "Was this helpful?",
+  "helpYes": "Yes",
+  "helpNo": "No",
+  "helpThanks": "Thanks for letting us know!",
+  "chatTitle": "Chat with support",
+  "chatWithAgent": "Chatting with {name}",
+  "@chatWithAgent": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "chatEmpty": "Share your concerns with us, we're here to help and make things right!",
+  "chatHint": "Share your concerns",
+  "chatSendFailed": "Message not sent. Tap to retry.",
+  "chatAttachPhoto": "Attach a photo",
+  "chatTyping": "{name} is typing",
+  "@chatTyping": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "chatPhotoAccessDenied": "We can’t open your photos. Allow photo access in Settings to send a picture."
+}

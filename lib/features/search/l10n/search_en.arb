@@ -1,0 +1,33 @@
+{
+  "searchHint": "Search African dishes and restaurants",
+  "searchRecent": "Recent searches",
+  "searchCategories": "Categories",
+  "searchTrendyCuisines": "Trendy cuisines near you",
+  "searchFor": "Search for “{query}”",
+  "@searchFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchAllAfrica": "All Africa",
+  "searchDeliveryFee": "{fee} Delivery fee",
+  "@searchDeliveryFee": {
+    "placeholders": {
+      "fee": {
+        "type": "String"
+      }
+    }
+  },
+  "searchFreeDelivery": "Free delivery",
+  "searchNoResultsTitle": "No matches for “{query}”",
+  "@searchNoResultsTitle": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchNoResultsMessage": "Check the spelling or try a different dish, drink or restaurant."
+}

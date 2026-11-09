@@ -1,0 +1,20 @@
+[
+  {
+    "id": "u_vanessa",
+    "first_name": "Vanessa",
+    "last_name": "Emas",
+    "email": "emasv58@yahoo.com",
+    "phone": "+447700900123",
+    "avatar_url": "assets/images/avatars/parrot.png",
+    "password": "Password1!"
+  },
+  {
+    "id": "u_tunde",
+    "first_name": "Tunde",
+    "last_name": "Bakare",
+    "email": "tunde@tavadaeats.com",
+    "phone": "+2348031234567",
+    "avatar_url": "assets/images/avatars/parrot.png",
+    "password": "Jollof2026!"
+  }
+]

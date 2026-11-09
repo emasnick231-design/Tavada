@@ -1,0 +1,245 @@
+[
+ {
+  "id": "order-quality",
+  "title": {
+   "en": "Order damage or quality issues",
+   "tr": "Sipariş hasarı veya kalite sorunları"
+  },
+  "articles": [
+   {
+    "id": "special-request",
+    "title": {
+     "en": "Special request or comment wasn’t applied",
+     "tr": "Özel isteğim veya notum uygulanmadı"
+    },
+    "body": {
+     "en": "We are sorry to hear that your special request was not followed. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Özel isteğinize uyulmadığını duyduğumuz için üzgünüz. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   },
+   {
+    "id": "item-damaged",
+    "title": {
+     "en": "Item is damaged",
+     "tr": "Ürün hasarlı"
+    },
+    "body": {
+     "en": "We’re sorry your item arrived damaged. Take a quick photo of the item and its packaging — it helps us sort things out faster. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Ürününüzün hasarlı geldiği için üzgünüz. Ürünün ve paketin kısa bir fotoğrafını çekin; bu, sorunu daha hızlı çözmemize yardımcı olur. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   },
+   {
+    "id": "packaging-damaged",
+    "title": {
+     "en": "Packaging is damaged",
+     "tr": "Paket hasarlı"
+    },
+    "body": {
+     "en": "Leaking or crushed packaging isn’t the experience we want for you. If the food inside was affected, we’ll make it right with a refund or credit. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Sızdıran veya ezilmiş paketler sizin için istediğimiz deneyim değil. İçindeki yemek etkilendiyse iade veya kredi ile telafi edeceğiz. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   },
+   {
+    "id": "item-temperature",
+    "title": {
+     "en": "Item is cold/warm/melted",
+     "tr": "Ürün soğuk/ılık/erimiş"
+    },
+    "body": {
+     "en": "Food should arrive at the right temperature. Let us know which items were affected and we’ll follow up with the restaurant and your rider. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Yemeğinizin doğru sıcaklıkta gelmesi gerekir. Hangi ürünlerin etkilendiğini bize bildirin, restoran ve kuryenizle ilgileneceğiz. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   }
+  ]
+ },
+ {
+  "id": "where-is-my-order",
+  "title": {
+   "en": "Where’s my order?",
+   "tr": "Siparişim nerede?"
+  },
+  "articles": [
+   {
+    "id": "order-late",
+    "title": {
+     "en": "My order is running late",
+     "tr": "Siparişim gecikiyor"
+    },
+    "body": {
+     "en": "Busy kitchens and traffic can cause short delays. You can follow your rider live from the Basket tab under Ongoing. If your order is more than 20 minutes late, we’re here to help. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Yoğun mutfaklar ve trafik kısa gecikmelere neden olabilir. Kuryenizi Sepet sekmesindeki Devam Eden bölümünden canlı takip edebilirsiniz. Siparişiniz 20 dakikadan fazla gecikirse yardım için buradayız. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   },
+   {
+    "id": "track-order",
+    "title": {
+     "en": "How do I track my order?",
+     "tr": "Siparişimi nasıl takip ederim?"
+    },
+    "body": {
+     "en": "Open the Basket tab and choose Ongoing. You’ll see the latest status, your rider’s details and the estimated arrival time.",
+     "tr": "Sepet sekmesini açın ve Devam Eden’i seçin. Son durumu, kurye bilgilerini ve tahmini varış saatini göreceksiniz."
+    }
+   },
+   {
+    "id": "rider-cant-find",
+    "title": {
+     "en": "The rider can’t find my address",
+     "tr": "Kurye adresimi bulamıyor"
+    },
+    "body": {
+     "en": "Make sure your delivery instructions include landmarks, gate codes or a floor number. You can call your rider from the order screen once they pick up your food. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Teslimat notlarınızın önemli noktaları, kapı kodlarını veya kat numarasını içerdiğinden emin olun. Kurye siparişinizi aldıktan sonra sipariş ekranından onu arayabilirsiniz. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   }
+  ]
+ },
+ {
+  "id": "missing-items",
+  "title": {
+   "en": "Missing or wrong items",
+   "tr": "Eksik veya yanlış ürünler"
+  },
+  "articles": [
+   {
+    "id": "item-missing",
+    "title": {
+     "en": "An item is missing",
+     "tr": "Bir ürün eksik"
+    },
+    "body": {
+     "en": "Sorry about that! Check the bag and any separate drinks carrier first. If something is still missing, we’ll refund it straight to your wallet. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Bunun için üzgünüz! Önce poşeti ve ayrı içecek taşıyıcısını kontrol edin. Hâlâ eksik bir şey varsa tutarını doğrudan cüzdanınıza iade edeceğiz. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   },
+   {
+    "id": "wrong-item",
+    "title": {
+     "en": "I received the wrong item",
+     "tr": "Yanlış ürün geldi"
+    },
+    "body": {
+     "en": "We know how disappointing that is. Tell us what you ordered and what arrived, and we’ll arrange a refund or replacement. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Bunun ne kadar üzücü olduğunu biliyoruz. Ne sipariş ettiğinizi ve ne geldiğini bize söyleyin, iade veya değişim ayarlayalım. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   },
+   {
+    "id": "wrong-order",
+    "title": {
+     "en": "I received someone else’s order",
+     "tr": "Başkasının siparişi geldi"
+    },
+    "body": {
+     "en": "Please don’t eat it if it may contain allergens. Message us and we’ll get your own order to you as quickly as possible. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Alerjen içerebileceği için lütfen yemeyin. Bize yazın, kendi siparişinizi size olabildiğince hızlı ulaştıralım. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   }
+  ]
+ },
+ {
+  "id": "something-else",
+  "title": {
+   "en": "Something else for this order",
+   "tr": "Bu siparişle ilgili başka bir şey"
+  },
+  "articles": [
+   {
+    "id": "change-address",
+    "title": {
+     "en": "Change my delivery address",
+     "tr": "Teslimat adresimi değiştirmek istiyorum"
+    },
+    "body": {
+     "en": "You can change the address before the restaurant accepts your order. After that, contact us and we’ll do our best to update it with your rider. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Restoran siparişinizi kabul etmeden önce adresi değiştirebilirsiniz. Sonrasında bize ulaşın, kuryenizle birlikte güncellemek için elimizden geleni yapalım. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   },
+   {
+    "id": "cancel-order",
+    "title": {
+     "en": "Cancel my order",
+     "tr": "Siparişimi iptal et"
+    },
+    "body": {
+     "en": "Orders can be cancelled free of charge until the restaurant starts preparing them. Get in touch with our support team via the chat below and we’ll help you out. ❤️",
+     "tr": "Siparişler, restoran hazırlamaya başlayana kadar ücretsiz iptal edilebilir. Aşağıdaki sohbetten destek ekibimize ulaşın, size hemen yardımcı olalım. ❤️"
+    }
+   },
+   {
+    "id": "receipt",
+    "title": {
+     "en": "I need a receipt",
+     "tr": "Fatura istiyorum"
+    },
+    "body": {
+     "en": "Receipts are available from the order timeline in the Basket tab under Completed.",
+     "tr": "Faturalara Sepet sekmesindeki Tamamlanan bölümünde sipariş zaman çizelgesinden ulaşabilirsiniz."
+    }
+   }
+  ]
+ },
+ {
+  "id": "all-topics",
+  "title": {
+   "en": "All topics",
+   "tr": "Tüm konular"
+  },
+  "articles": [
+   {
+    "id": "payments-wallet",
+    "title": {
+     "en": "Payments and wallet",
+     "tr": "Ödemeler ve cüzdan"
+    },
+    "body": {
+     "en": "Pay with your Tavada wallet or a debit/credit card. Top up from Profile → Add money; refunds and rewards land in your wallet instantly.",
+     "tr": "Tavada cüzdanınızla veya banka/kredi kartıyla ödeyin. Profil → Para ekle bölümünden yükleme yapın; iadeler ve ödüller cüzdanınıza anında yansır."
+    }
+   },
+   {
+    "id": "rewards-points",
+    "title": {
+     "en": "Rewards and points",
+     "tr": "Ödüller ve puanlar"
+    },
+    "body": {
+     "en": "Earn a point for every £1 you spend or add to your wallet. Every 200 points unlocks £5 of wallet credit.",
+     "tr": "Harcadığınız veya cüzdanınıza eklediğiniz her £1 için bir puan kazanın. Her 200 puan £5 cüzdan kredisi kazandırır."
+    }
+   },
+   {
+    "id": "account-security",
+    "title": {
+     "en": "Account and security",
+     "tr": "Hesap ve güvenlik"
+    },
+    "body": {
+     "en": "Keep your account safe with a strong password and an up-to-date phone number. You can change both from your profile.",
+     "tr": "Güçlü bir şifre ve güncel bir telefon numarasıyla hesabınızı güvende tutun. İkisini de profilinizden değiştirebilirsiniz."
+    }
+   },
+   {
+    "id": "allergies",
+    "title": {
+     "en": "Allergies and dietary needs",
+     "tr": "Alerjiler ve beslenme ihtiyaçları"
+    },
+    "body": {
+     "en": "Every restaurant lists its allergy and dietary information. If you have a severe allergy, contact the restaurant before ordering.",
+     "tr": "Her restoran alerji ve beslenme bilgilerini listeler. Ciddi bir alerjiniz varsa sipariş vermeden önce restoranla iletişime geçin."
+    }
+   },
+   {
+    "id": "accessibility-support",
+    "title": {
+     "en": "Accessibility support",
+     "tr": "Erişilebilirlik desteği"
+    },
+    "body": {
+     "en": "Tell riders about hearing needs from Profile → Accessibility, so they message you instead of calling.",
+     "tr": "Profil → Erişilebilirlik bölümünden kuryelere işitme ihtiyaçlarınızı bildirin; sizi aramak yerine mesaj göndersinler."
+    }
+   }
+  ]
+ }
+]

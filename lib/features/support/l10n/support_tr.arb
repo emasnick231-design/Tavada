@@ -1,0 +1,17 @@
+{
+  "helpTitle": "Nasıl yardımcı olabiliriz?",
+  "helpSubtitle": "Ekibimiz 7/24 yardıma hazır",
+  "helpChatWithPerson": "Bir temsilciyle konuş",
+  "helpWasHelpful": "Bu yardımcı oldu mu?",
+  "helpYes": "Evet",
+  "helpNo": "Hayır",
+  "helpThanks": "Bildirdiğin için teşekkürler!",
+  "chatTitle": "Destekle sohbet",
+  "chatWithAgent": "{name} ile sohbet",
+  "chatEmpty": "Sorununu bizimle paylaş, yardım etmek ve her şeyi düzeltmek için buradayız!",
+  "chatHint": "Sorununu paylaş",
+  "chatSendFailed": "Mesaj gönderilemedi. Tekrar denemek için dokun.",
+  "chatAttachPhoto": "Fotoğraf ekle",
+  "chatTyping": "{name} yazıyor",
+  "chatPhotoAccessDenied": "Fotoğraflarını açamıyoruz. Fotoğraf göndermek için Ayarlar’dan erişim izni ver."
+}

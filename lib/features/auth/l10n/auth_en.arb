@@ -1,0 +1,72 @@
+{
+  "authEmailTitle": "Create your account",
+  "authEmailSubtitle": "Tell us your name and the email we’ll use to verify your account",
+  "authEmailHint": "Enter your email",
+  "authHaveAccount": "Have an account?",
+  "authLogIn": "Log in",
+  "authPhoneTitle": "What is your phone number?",
+  "authPhoneSubtitle": "You'll use this number to get notifications, sign in, and recover account",
+  "authPasswordTitle": "Set your account password",
+  "authPasswordSubtitle": "Your password should be at least 8 characters long and contain a letter and a number or special character",
+  "authPasswordHint": "Enter your password",
+  "authRuleLength": "You have at least 8 characters",
+  "authRuleSpecial": "It contains a number or special character",
+  "authRuleLetter": "It has one letter",
+  "authOtpTitleEmail": "We sent a code to your email, enter it here to continue",
+  "authOtpTitlePhone": "We sent a code to your phone, enter it here to continue",
+  "authOtpSentTo": "Sent to {destination}",
+  "@authOtpSentTo": {
+    "placeholders": {
+      "destination": {
+        "type": "String"
+      }
+    }
+  },
+  "authChangeEmail": "Change your email?",
+  "authChangePhone": "Change your number?",
+  "authResendIn": "Resend code in {time}",
+  "@authResendIn": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "authResendCode": "Resend code",
+  "authCodeResent": "A new code is on its way",
+  "authOtpDevTip": "Dev tip: use 1234",
+  "authWelcomeBackTitle": "Welcome back!",
+  "authWelcomeBackSubtitle": "Enter your details to continue",
+  "authUsePhone": "Use phone number?",
+  "authUseEmail": "Use email instead?",
+  "authForgotPasswordLink": "Forgot password?",
+  "authNoAccount": "Don't have an account?",
+  "authSignUp": "Sign up",
+  "authLoginDemoTip": "Demo: emasv58@yahoo.com · Password1!",
+  "authForgotTitle": "Forgot your password?",
+  "authForgotSubtitle": "We will send a verification code to your email",
+  "authResetTitle": "Reset your password",
+  "authResetSubtitle": "Make the changes you need, don't use an old one",
+  "authConfirmPasswordHint": "Confirm password",
+  "authPasswordsMismatch": "Passwords don't match",
+  "authCompleteChanges": "Complete changes",
+  "authPasswordUpdated": "Password updated. Log in with your new password.",
+  "authWelcomeToast": "Welcome, {name}!",
+  "@authWelcomeToast": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "authErrorInvalidCredentials": "Incorrect email or password",
+  "authErrorPhoneNotFound": "We couldn't find an account with that number. Sign up instead?",
+  "authErrorInvalidCode": "That code isn't right. Check it and try again.",
+  "authErrorEmailTaken": "An account with this email already exists. Log in instead?",
+  "authErrorInvalidEmail": "Enter a valid email address",
+  "authSelectCountry": "Select country",
+  "authSearchCountry": "Search country",
+  "authFlowExpired": "This step has expired. Please start again.",
+  "authFirstNameHint": "First name",
+  "authLastNameHint": "Last name"
+}

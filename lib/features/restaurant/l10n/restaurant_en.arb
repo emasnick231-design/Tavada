@@ -1,0 +1,174 @@
+{
+  "restaurantComments": "{count} comments",
+  "@restaurantComments": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "restaurantDeliveryTime": "Delivery Time",
+  "restaurantCuisine": "Cuisine",
+  "restaurantDeliveryFee": "Delivery fee",
+  "restaurantAiSummary": "AI summary",
+  "restaurantAiDisclaimer": "This summary is automatically generated from customer reviews. We do not guarantee the accuracy, timeliness, or completeness of the information provided.",
+  "restaurantPopularOrders": "Popular orders",
+  "restaurantMenu": "Menu",
+  "restaurantSearchMenu": "Search menu",
+  "restaurantSearchMenuHint": "Search dishes and drinks",
+  "restaurantSearchMenuMessage": "Find your favourite dish or drink here",
+  "restaurantNoDishesTitle": "No dishes found",
+  "restaurantNoDishesMessage": "Try a different name or ingredient",
+  "restaurantOpenUntil": "Open now · Until {time}",
+  "@restaurantOpenUntil": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantClosedOpensAt": "Closed · Opens {time}",
+  "@restaurantClosedOpensAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantRatingReviews": "{rating} ({count} reviews)",
+  "@restaurantRatingReviews": {
+    "placeholders": {
+      "rating": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "restaurantAllergyInfo": "Allergy & Dietary Info",
+  "restaurantAllergyInformation": "Allergy Information",
+  "restaurantDietaryLabels": "Dietary Labels",
+  "restaurantOrdersCount": "{count} orders",
+  "@restaurantOrdersCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantOrdersPeriod": "in the last 12 months",
+  "restaurantAddressCopied": "Address copied",
+  "restaurantMilesAway": "{distance} miles",
+  "@restaurantMilesAway": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantShareText": "Order from {name} on Tavada Eats",
+  "@restaurantShareText": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantClosedBanner": "Closed right now. You can still browse the menu.",
+  "reviewsTitle": "Reviews",
+  "reviewsCount": "{count}+ reviews",
+  "@reviewsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "reviewsComments": "Comments",
+  "reviewsRestaurantReply": "Restaurant's Reply",
+  "reviewsThanksFeedback": "Thanks for your feedback",
+  "reviewsEmptyTitle": "No reviews yet",
+  "reviewsEmptyMessage": "Be the first to order and leave a review.",
+  "dishRequired": "Required",
+  "dishOptional": "Optional",
+  "dishChooseUpTo": "Choose up to {count}",
+  "@dishChooseUpTo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dishAddFor": "Add for {price}",
+  "@dishAddFor": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "dishUpdateFor": "Update order for {price}",
+  "@dishUpdateFor": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "dishPercentOff": "{percent}% off",
+  "@dishPercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "dishAllergenNotice": "Food may contain allergens. Questions for specific allergen information? ",
+  "dishContactRestaurant": "Please contact the restaurant",
+  "dishNoteHint": "Add a note for the kitchen (optional)",
+  "dishDeliveryMeta": "{fee} Delivery fee · {eta}",
+  "@dishDeliveryMeta": {
+    "placeholders": {
+      "fee": {
+        "type": "String"
+      },
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "dishFreeDeliveryMeta": "Free delivery · {eta}",
+  "@dishFreeDeliveryMeta": {
+    "placeholders": {
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "dishChooseRequired": "Choose an option for “{group}”",
+  "@dishChooseRequired": {
+    "placeholders": {
+      "group": {
+        "type": "String"
+      }
+    }
+  },
+  "dishMaxReached": "You can choose up to {count}",
+  "@dishMaxReached": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "restaurantClosedBannerAt": "Closed right now · opens at {time}. You can still browse the menu.",
+  "@restaurantClosedBannerAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "dishNoteTitle": "Special instructions"
+}

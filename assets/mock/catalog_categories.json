@@ -1,0 +1,14 @@
+[
+  {"id": "breakfast", "name": {"en": "Breakfast", "tr": "Kahvaltı"}, "image_url": "assets/images/categories/breakfast.png"},
+  {"id": "brunch", "name": {"en": "Brunch", "tr": "Brunch"}, "image_url": "assets/images/categories/brunch.png"},
+  {"id": "lunch", "name": {"en": "Lunch", "tr": "Öğle"}, "image_url": "assets/images/categories/lunch.png"},
+  {"id": "dinner", "name": {"en": "Dinner", "tr": "Akşam"}, "image_url": "assets/images/categories/dinner.png"},
+  {"id": "snacks", "name": {"en": "Snacks", "tr": "Atıştırmalık"}, "image_url": "assets/images/categories/snacks.png"},
+  {"id": "drinks", "name": {"en": "Drinks", "tr": "İçecekler"}, "image_url": "assets/images/categories/drinks.png"},
+  {"id": "rice_grains", "name": {"en": "Rice & Grains", "tr": "Pilav & Tahıl"}, "image_url": "assets/images/categories/rice_grains.png"},
+  {"id": "seafood", "name": {"en": "Seafood", "tr": "Deniz Ürünleri"}, "image_url": "assets/images/categories/seafood.png"},
+  {"id": "soup_stews", "name": {"en": "Soup & Stews", "tr": "Çorba & Güveç"}, "image_url": "assets/images/categories/soup_stews.png"},
+  {"id": "pastries", "name": {"en": "Pastries", "tr": "Hamur İşleri"}, "image_url": "assets/images/categories/pastries.png"},
+  {"id": "vegetarian", "name": {"en": "Vegetarian", "tr": "Vejetaryen"}, "image_url": "assets/images/categories/vegetarian.png"},
+  {"id": "grilled_bbq", "name": {"en": "Grilled / BBQ", "tr": "Izgara / BBQ"}, "image_url": "assets/images/categories/grilled_bbq.png"}
+]

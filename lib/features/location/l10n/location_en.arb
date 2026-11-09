@@ -1,0 +1,37 @@
+{
+  "locationIntroShout": "Howfa naw!",
+  "locationIntroTitle": "Where do you stay?",
+  "locationIntroBody": "Help us know your location so that we can show you nearby places you can order from",
+  "locationFindMe": "Find me",
+  "locationSearchInstead": "Search for an address instead",
+  "locationPickerTitle": "Choose location",
+  "locationSearchHint": "Search here or move map",
+  "locationDragHint": "Drag the map to your preferred location",
+  "locationConfirmCurrent": "Confirm your current location",
+  "locationSelect": "Select this location",
+  "locationResolving": "Finding address…",
+  "locationDroppedPin": "Dropped pin",
+  "locationRecenter": "Recenter",
+  "locationNoResultsTitle": "No places found",
+  "locationNoResultsMessage": "Try a street, area or postcode",
+  "locationSearchEmptyTitle": "Where should we deliver?",
+  "locationSearchEmptyMessage": "Search for a street, area or postcode",
+  "locationUseCurrent": "Use my current location",
+  "locationServiceDisabledTitle": "Location is turned off",
+  "locationServiceDisabledMessage": "Turn on location services to find restaurants near you, or pick your address on the map.",
+  "locationDeniedForeverTitle": "Location access is off",
+  "locationDeniedForeverMessage": "Allow location access for Tavada Eats in Settings, or pick your address on the map.",
+  "locationOpenSettings": "Open settings",
+  "locationChooseOnMap": "Choose on map",
+  "locationFallbackToast": "We couldn't get your location, so we've started you in London.",
+  "locationDeliveringTo": "Delivering to {address}",
+  "@locationDeliveringTo": {
+    "placeholders": {
+      "address": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPinnedTitle": "Pinned location",
+  "locationResolveFailed": "We couldn’t look up this address. You can still use the pin."
+}
